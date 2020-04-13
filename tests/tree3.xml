@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<period name="6">
+    <children>
+        <period name="1"/>
+        <period name="2"/>
+        <period name="5">
+            <children>
+                <period name="3"/>
+                <period name="4"/>
+            </children>
+        </period>
+    </children>
+</period>

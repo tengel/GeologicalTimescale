@@ -1,0 +1,7 @@
+Die App zeigt die geologische Zeitskala der Erdgeschichte. Es werden die Einheiten Äonothem, Ärathem, System, Serie und Stufe angezeigt. Für jede Periode ist der Startpunkt angegeben und ob es sich um einen GSSP handelt.
+
+Die Anzeige kann nach oben und unten gescrollt werden wenn sie nicht auf das Display passt. Es gibt eine Option um die Anzeige in die Displayhöhe einzupassen. Außerdem gibt es eine Option um die tatsächliche Länge der Perioden maßstabsgetreu anzuzeigen.  Eine einzelne Periode kann durch berühren ausgewählt werden. Dann wird nur der Zeitabschnitt der ausgewählten Periode im Detail angezeigt.
+
+Mit dem Plus-Button wird eine Spalte mit höherem Detailgrad auf der rechten Seite hinzugefügt. Der Minus-Button entfernt die rechte Spalte mit dem höchsten Detailgrad. Durch Wischen auf dem Display nach rechts oder links kann die Anzeige in Richtung der detaillierteren oder größeren Einheiten bewegt werden.
+
+Es gibt auch eine Suchfunktion, um eine gewünschte Periode zu finden und hervorzuheben.

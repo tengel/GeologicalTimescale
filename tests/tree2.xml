@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<period name="18">
+    <children>
+        <period name="17" from="0.112" to="1" color="#ffffff">
+            <text>
+            </text>
+            <children>
+                <period name="15">
+                    <children>
+                        <period name="4">
+                            <children>
+                                <period name="1"/>
+                                <period name="2"/>
+                                <period name="3"/>
+                            </children>
+                        </period>
+                        <period name="7">
+                            <children>
+                                <period name="5"/>
+                                <period name="6"/>
+                            </children>
+                        </period>
+                    </children>
+                </period>
+                
+                <period name="16">
+                    <children>
+                        <period name="10">
+                            <children>
+                                <period name="8"/>
+                                <period name="9"/>
+                            </children>
+                        </period>
+                        <period name="14">
+                            <children>
+                                <period name="11"/>
+                                <period name="12"/>
+                                <period name="13"/>
+                            </children>
+                        </period>
+                    </children>
+                </period>
+            </children>
+        </period>
+    </children>
+</period>

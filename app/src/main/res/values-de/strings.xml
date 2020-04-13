@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geologische Zeitskala</string>
+
+    <string name="Supereon"></string>
+    <string name="Eon">Äonothem</string>
+    <string name="Era">Ärathem</string>
+    <string name="Period">System</string>
+    <string name="Epoch">Serie</string>
+    <string name="Age">Stufe</string>
+
+    <string name="menu_true_scale">Maßstabsgetreu</string>
+    <string name="menu_fit_screen">In Bildschirm einpassen</string>
+    <string name="menu_help">Info/Hilfe</string>
+    <string name="menu_search">Suche</string>
+    <string name="menu_clear_search">Suche Löschen</string>
+    <string name="menu_plus">plus</string>
+    <string name="menu_minus">minus</string>
+
+    <string name="root">root</string>
+    <string name="n_a">n a</string>
+    <string name="Phanerozoic">Phanerozoikum</string>
+    <string name="Cenozoic">Känozoikum</string>
+    <string name="Quaternary">Quartär</string>
+    <string name="Holocene">Holozän</string>
+    <string name="Pleistocene">Pleistozän</string>
+    <string name="Late_Pleistocene">Altpleistozän</string>
+    <string name="Middle_Pleistocene">Mittelpleistozän</string>
+    <string name="Calabrian">Calabrium</string>
+    <string name="Gelasian">Gelasium</string>
+    <string name="Neogene">Neogen</string>
+    <string name="Pliocene">Pliozän</string>
+    <string name="Piacenzian">Piacenzium</string>
+    <string name="Zanclean">Zancleum</string>
+    <string name="Miocene">Miozän</string>
+    <string name="Messinian">Messinium</string>
+    <string name="Tortonian">Tortonium</string>
+    <string name="Serravallian">Serravallium</string>
+    <string name="Langhian">Langhium</string>
+    <string name="Burdigalian">Burdigalium</string>
+    <string name="Aquitanian">Aquitanium</string>
+    <string name="Paleogene">Paläogen</string>
+    <string name="Oligocene">Oligozän</string>
+    <string name="Chattian">Chattium</string>
+    <string name="Rupelian">Rupelium</string>
+    <string name="Eocene">Eozän</string>
+    <string name="Priabonian">Priabonium</string>
+    <string name="Bartonian">Bartonium</string>
+    <string name="Lutetian">Lutetium</string>
+    <string name="Ypresian">Ypresium</string>
+    <string name="Paleocene">Paläozän</string>
+    <string name="Thanetian">Thanetium</string>
+    <string name="Selandian">Seelandium</string>
+    <string name="Danian">Danium</string>
+    <string name="Mesozoic">Mesozoikum</string>
+    <string name="Cretaceous">Kreide</string>
+    <string name="Late_Cretaceous">Oberkreide</string>
+    <string name="Maastrichtian">Maastrichtium</string>
+    <string name="Campanian">Campanium</string>
+    <string name="Santonian">Santonium</string>
+    <string name="Coniacian">Coniacium</string>
+    <string name="Turonian">Turonium</string>
+    <string name="Cenomanian">Cenomanium</string>
+    <string name="Early_Cretaceous">Unterkreide</string>
+    <string name="Albian">Albium</string>
+    <string name="Aptian">Aptium</string>
+    <string name="Barremian">Barremium</string>
+    <string name="Hauterivian">Hauterivium</string>
+    <string name="Valanginian">Valanginium</string>
+    <string name="Berriasian">Berriasium</string>
+    <string name="Jurassic">Jura</string>
+    <string name="Late_Jurassic">Oberjura</string>
+    <string name="Tithonian">Tithonium</string>
+    <string name="Kimmeridgian">Kimmeridgium</string>
+    <string name="Oxfordian">Oxfordium</string>
+    <string name="Middle_Jurassic">Mitteljura</string>
+    <string name="Callovian">Callovium</string>
+    <string name="Bathonian">Bathonium</string>
+    <string name="Bajocian">Bajocium</string>
+    <string name="Aalenian">Aalenium</string>
+    <string name="Early_Jurassic">Unterjura</string>
+    <string name="Toarcian">Toarcium</string>
+    <string name="Pliensbachian">Pliensbachium</string>
+    <string name="Sinemurian">Sinemurium</string>
+    <string name="Hettangian">Hettangium</string>
+    <string name="Triassic">Trias</string>
+    <string name="Late_Triassic">Obertrias</string>
+    <string name="Rhaetian">Rhaetium</string>
+    <string name="Norian">Norium</string>
+    <string name="Carnian">Karnium</string>
+    <string name="Middle_Triassic">Mitteltrias</string>
+    <string name="Ladinian">Ladinium</string>
+    <string name="Anisian">Anisium</string>
+    <string name="Early_Triassic">Untertrias</string>
+    <string name="Olenekian">Olenekium</string>
+    <string name="Induan">Indusium</string>
+    <string name="Paleozoic">Paläozoikum</string>
+    <string name="Permian">Perm</string>
+    <string name="Lopingian">Lopingium</string>
+    <string name="Changhsingian">Changhsingium</string>
+    <string name="Wuchiapingian">Wuchiapingium</string>
+    <string name="Guadalupian">Guadalupium</string>
+    <string name="Capitanian">Capitanium</string>
+    <string name="Wordian">Wordium</string>
+    <string name="Roadian">Roadium</string>
+    <string name="Cisuralian">Cisuralium</string>
+    <string name="Kungurian">Kungurium</string>
+    <string name="Artinskian">Artinskium</string>
+    <string name="Sakmarian">Sakmarium</string>
+    <string name="Asselian">Asselium</string>
+    <string name="Carboniferous">Karbon</string>
+    <string name="Pennsylvanian">Pennsylvanium</string>
+    <string name="Gzhelian">Gzhelium</string>
+    <string name="Kasimovian">Kasimovium</string>
+    <string name="Moscovian">Moskovium</string>
+    <string name="Bashkirian">Bashkirium</string>
+    <string name="Mississippian">Mississippium</string>
+    <string name="Serpukhovian">Serpukhovium</string>
+    <string name="Visean">Viséum</string>
+    <string name="Tournaisian">Tournaisium</string>
+    <string name="Devonian">Devon</string>
+    <string name="Late_Devonian">Oberdevon</string>
+    <string name="Famennian">Famennium</string>
+    <string name="Frasnian">Frasnium</string>
+    <string name="Middle_Devonian">Mitteldevon</string>
+    <string name="Givetian">Givetium</string>
+    <string name="Eifelian">Eifelium</string>
+    <string name="Early_Devonian">Unterdevon</string>
+    <string name="Emsian">Emsium</string>
+    <string name="Pragian">Pragium</string>
+    <string name="Lochkovian">Lochkovium</string>
+    <string name="Silurian">Silur</string>
+    <string name="Pridoli">Pridolium</string>
+    <string name="Ludlow">Ludlow</string>
+    <string name="Ludfordian">Ludfordium</string>
+    <string name="Gorstian">Gorstium</string>
+    <string name="Wenlock">Wenlock</string>
+    <string name="Homerian">Homerium</string>
+    <string name="Sheinwoodian">Sheinwoodium</string>
+    <string name="Llandovery">Llandovery</string>
+    <string name="Telychian">Telychium</string>
+    <string name="Aeronian">Aeronium</string>
+    <string name="Rhuddanian">Rhuddanium</string>
+    <string name="Ordovician">Ordovizium</string>
+    <string name="Late_Ordovician">Oberordovizium</string>
+    <string name="Hirnantian">Hirnantium</string>
+    <string name="Katian">Katium</string>
+    <string name="Sandbian">Sandbium</string>
+    <string name="Middle_Ordovician">Mittelordovizium</string>
+    <string name="Darriwilian">Darriwilium</string>
+    <string name="Dapingian">Dapingium</string>
+    <string name="Early_Ordovician">Unterordovizium</string>
+    <string name="Floian">Floium</string>
+    <string name="Tremadocian">Tremadocium</string>
+    <string name="Cambrian">Kambrium</string>
+    <string name="Furongian">Furongium</string>
+    <string name="Stage_10">10. Stufe</string>
+    <string name="Jiangshanian">Jiangshanium</string>
+    <string name="Paibian">Paibium</string>
+    <string name="Series_3">3. Serie</string>
+    <string name="Guzhangian">Guzhangium</string>
+    <string name="Drumian">Drumium</string>
+    <string name="Stage_5">5. Stufe</string>
+    <string name="Series_2">2. Serie</string>
+    <string name="Stage_4">4. Stufe</string>
+    <string name="Stage_3">3. Stufe</string>
+    <string name="Terreneuvian">Terreneuvium</string>
+    <string name="Stage_2">2. Stufe</string>
+    <string name="Fortunian">Fortunium</string>
+    <string name="Precambrian">Präkambrium</string>
+    <string name="Proterozoic">Proterozoikum</string>
+    <string name="Neoproterozoic">Neoproterozoikum</string>
+    <string name="Ediacaran">Ediacarium</string>
+    <string name="Cryogenian">Cryogenium</string>
+    <string name="Tonian">Tonium</string>
+    <string name="Mesoproterozoic">Mesoproterozoikum</string>
+    <string name="Stenian">Stenium</string>
+    <string name="Ectasian">Ectasium</string>
+    <string name="Calymmian">Calymmium</string>
+    <string name="Paleoproterozoic">Paläoproterozoikum</string>
+    <string name="Statherian">Statherium</string>
+    <string name="Orosirian">Orosirium</string>
+    <string name="Rhyacian">Rhyacium</string>
+    <string name="Siderian">Siderium</string>
+    <string name="Archean">Archaikum</string>
+    <string name="Neoarchean">Neoarchaikum</string>
+    <string name="Mesoarchean">Mesoarchaikum</string>
+    <string name="Paleoarchean">Paläoarchaikum</string>
+    <string name="Eoarchean">Eoarchaikum</string>
+    <string name="Hadean">Hadaikum</string>
+
+    <string name="help_text"><![CDATA[
+    <b><u>Geologische Zeitskala</u></b>
+    <br/>
+    <br/>
+    Die App zeigt die geologische Zeitskala der Erdgeschichte. Die jüngsten
+    Einheiten befinden sich oben, die ältesten Einheiten unten. Die langen
+    Einheiten befinden sich links, rechts befinden sich die kürzeren und
+    detaillierteren Einheiten.
+    <br/>
+    <br/>
+    <br/>
+    <b><u>Bedienung:</u></b>
+    <br/>
+    <br/>
+    <b>Plus:</b> An der rechten Seite eine Spalte mit höherem Detailgrad
+    hinzufügen.
+    <br/>
+    <b>Minus:</b> Die Spalte mit dem höchsten Detailgrad entfernen.
+    <br/>
+    <b>Links wischen:</b> Die Ansicht in Richtung der kleineren Einheiten bewegen.
+    <br/>
+    <b>Rechts wischen:</b> Die Ansicht in Richtung der größeren Einheiten bewegen.
+    <br/>
+    </br>
+    <br/>
+    <br/>
+    <b><u>Credits</u></b>
+    <br/>
+    <br/>
+    Die Daten in dieser App basieren auf Wikipedia, siehe
+    <a href="https://en.wikipedia.org/wiki/Geologic_time_scale">https://en.wikipedia.org/wiki/Geologic_time_scale</a>
+    <br/>
+    <br/>
+     ]]></string>
+</resources>

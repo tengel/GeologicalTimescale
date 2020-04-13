@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/option_zoom_minus"
+          android:title="@string/menu_minus"
+          android:icon="@drawable/ic_remove_circle_outline_white_24dp"
+          android:showAsAction="ifRoom" />
+
+    <item android:id="@+id/option_zoom_plus"
+          android:title="@string/menu_plus"
+          android:icon="@drawable/ic_add_circle_outline_white_24dp"
+          android:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/option_clear_search"
+          android:title="@string/menu_clear_search"
+          android:showAsAction="never" />
+
+    <item android:id="@+id/option_search"
+          android:title="@string/menu_search"
+          android:icon="@drawable/ic_search_white_24dp"
+          android:showAsAction="ifRoom" />
+
+    <item android:id="@+id/option_scale"
+          android:title="@string/menu_true_scale"
+          android:showAsAction="never"
+          android:checkable="true" />
+
+    <item android:id="@+id/option_fit"
+          android:title="@string/menu_fit_screen"
+          android:showAsAction="never"
+          android:checkable="true"/>
+
+    <item android:id="@+id/option_help"
+          android:title="@string/menu_help"
+          android:showAsAction="never"/>
+
+</menu>

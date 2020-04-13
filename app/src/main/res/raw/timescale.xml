@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<period name="root">
+    <children>
+        <!-- Supereon -->
+        <period name="n_a" color="000000" start="541" gssp="yes">
+            <children>
+                <!-- Eon -->
+                <period name="Phanerozoic" color="6FDAED" start="541" gssp="yes" accuracy="1">
+                    <children>
+                        <!-- Era -->
+                        <period name="Cenozoic" color="F6EC39" start="66" gssp="yes">
+                            <children>
+                                <!-- Period -->
+                                <period name="Quaternary" color="FEF691" start="2.58" gssp="yes">
+                                    <children>
+                                        <!-- Epoch -->
+                                        <period name="Holocene" color="FEF1E0" start="0.0117" gssp="yes"/>
+                                        <period name="Pleistocene" color="FEEFB8" start="2.58" gssp="yes">
+                                            <children>
+                                                <!-- Age -->
+                                                <period name="Late_Pleistocene" color="FEF1D6" start="0.126" gssp="no"/>
+                                                <period name="Middle_Pleistocene" color="FEF0CC" start="0.781" gssp="no"/>
+                                                <period name="Calabrian" color="FEEFC1" start="1.8" gssp="yes"/>
+                                                <period name="Gelasian" color="FEEEAD" start="2.58" gssp="yes"/>
+                                            </children>
+                                        </period>
+                                    </children>
+                                </period>
+                                <period name="Neogene" color="FEDD2D" start="23.03" gssp="yes">
+                                    <children>
+                                        <period name="Pliocene" color="FEF8A6" start="5.333" gssp="yes">
+                                            <children>
+                                                <period name="Piacenzian" color="FEFAC8" start="3.6" gssp="yes"/>
+                                                <period name="Zanclean" color="FEF9BD" start="5.333" gssp="yes"/>
+                                            </children>
+                                        </period>
+                                        <period name="Miocene" color="FEEF00" start="23.03" gssp="yes">
+                                            <children>
+                                                <period name="Messinian" color="FEF587" start="7.246" gssp="yes"/>
+                                                <period name="Tortonian" color="FEF47D" start="11.63" gssp="yes"/>
+                                                <period name="Serravallian" color="FEF472" start="13.82" gssp="yes"/>
+                                                <period name="Langhian" color="FEF366" start="15.97" gssp="no"/>
+                                                <period name="Burdigalian" color="FEF259" start="20.44" gssp="no"/>
+                                                <period name="Aquitanian" color="FEF14D" start="23.03" gssp="yes"/>
+                                            </children>
+                                        </period>
+                                    </children>
+                                </period>
+                                <period name="Paleogene" color="FEA163" start="66" gssp="yes">
+                                    <children>
+                                        <period name="Oligocene" color="FEC386" start="33.9" gssp="yes">
+                                            <children>
+                                                <period name="Chattian" color="FEE4B2" start="28.1" gssp="no"/>
+                                                <period name="Rupelian" color="FED9A2" start="33.9" gssp="yes"/>
+                                            </children>
+                                        </period>
+                                        <period name="Eocene" color="FEB979" start="56" gssp="yes">
+                                            <children>
+                                                <period name="Priabonian" color="FECFA7" start="37.9" gssp="no"/>
+                                                <period name="Bartonian" color="FEC498" start="41.2" gssp="no"/>
+                                                <period name="Lutetian" color="FEB98A" start="47.8" gssp="yes"/>
+                                                <period name="Ypresian" color="FEAE7D" start="56" gssp="yes"/>
+                                            </children>
+                                        </period>
+                                        <period name="Paleocene" color="FEAD6E" start="66" gssp="yes">
+                                            <children>
+                                                <period name="Thanetian" color="FEC37D" start="59.2" gssp="yes"/>
+                                                <period name="Selandian" color="FEC274" start="61.6" gssp="yes"/>
+                                                <period name="Danian" color="FEB872" start="66" gssp="yes"/>
+                                            </children>
+                                        </period>
+                                    </children>
+                                </period>
+                            </children>
+                        </period>
+                        <period name="Mesozoic" color="07CAEA" start="242.17" gssp="yes" accuracy="0.06">
+                            <children>
+                                <period name="Cretaceous" color="6FC86B" start="145" gssp="no" startApprox="yes">
+                                    <children>
+                                        <period name="Late_Cretaceous" color="A6D468" start="100.5" gssp="yes">
+                                            <children>
+                                                <period name="Maastrichtian" color="F3F29C" start="72.1" gssp="yes" accuracy="0.2"/>
+                                                <period name="Campanian" color="EAED93" start="83.6" gssp="no" accuracy="0.2"/>
+                                                <period name="Santonian" color="DEE78A" start="86.3" gssp="yes" accuracy="0.5"/>
+                                                <period name="Coniacian" color="D1E382" start="89.8" gssp="no" accuracy="0.3"/>
+                                                <period name="Turonian" color="C3DF79" start="93.9" gssp="yes"/>
+                                                <period name="Cenomanian" color="B5DA71" start="100.5" gssp="yes"/>
+                                            </children>
+                                        </period>
+                                        <period name="Early_Cretaceous" color="7ECD74" start="145" gssp="no" startApprox="yes">
+                                            <children>
+                                                <period name="Albian" color="CDE5A8" start="113" gssp="yes" startApprox="yes"/>
+                                                <period name="Aptian" color="BFE19F" start="125" gssp="no" startApprox="yes"/>
+                                                <period name="Barremian" color="AFDD97" start="129.4" gssp="no" startApprox="yes"/>
+                                                <period name="Hauterivian" color="9ED78E" start="132.9" gssp="no" startApprox="yes"/>
+                                                <period name="Valanginian" color="8DD285" start="139.8" gssp="no" startApprox="yes"/>
+                                                <period name="Berriasian" color="7CCE7C" start="145" gssp="no" startApprox="yes"/>
+                                            </children>
+                                        </period>
+                                    </children>
+                                </period>
+                                <period name="Jurassic" color="00BBE7" start="201.3" gssp="yes" accuracy="0.2">
+                                    <children>
+                                        <period name="Late_Jurassic" color="97E3FA" start="163.5" gssp="no" accuracy="1">
+                                            <children>
+                                                <period name="Tithonian" color="CFF0FC" start="152.1" gssp="no" accuracy="0.9"/>
+                                                <period name="Kimmeridgian" color="BDEBFB" start="157.3" gssp="no" accuracy="1"/>
+                                                <period name="Oxfordian" color="ABE7FB" start="163.5" gssp="no" accuracy="1"/>
+                                            </children>
+                                        </period>
+                                        <period name="Middle_Jurassic" color="34D1EB" start="174.1" gssp="yes" accuracy="1">
+                                            <children>
+                                                <period name="Callovian" color="AEE6F0" start="166.1" gssp="no" accuracy="1.2"/>
+                                                <period name="Bathonian" color="9CE2EF" start="168.3" gssp="yes" accuracy="1.3"/>
+                                                <period name="Bajocian" color="87DEEE" start="170.3" gssp="yes" accuracy="1.4"/>
+                                                <period name="Aalenian" color="6FDAED" start="174.1" gssp="yes" accuracy="1"/>
+                                            </children>
+                                        </period>
+                                        <period name="Early_Jurassic" color="00B7EA" start="201.3" gssp="yes" accuracy="0.2">
+                                            <children>
+                                                <period name="Toarcian" color="74D1F0" start="182.7" gssp="yes" accuracy="0.7"/>
+                                                <period name="Pliensbachian" color="3CC9EF" start="190.8" gssp="yes" accuracy="1"/>
+                                                <period name="Sinemurian" color="07C1ED" start="199.3" gssp="yes" accuracy="0.3"/>
+                                                <period name="Hettangian" color="00BBEB" start="201.3" gssp="yes" accuracy="0.2"/>
+                                            </children>
+                                        </period>
+                                    </children>
+                                </period>
+                                <period name="Triassic" color="994E96" start="252.17" gssp="yes" accuracy="0.06">
+                                    <children>
+                                        <period name="Late_Triassic" color="C698C2" start="237" gssp="yes" startApprox="yes">
+                                            <children>
+                                                <period name="Rhaetian" color="E8C2D8" start="208.5" gssp="no" startApprox="yes"/>
+                                                <period name="Norian" color="DDB4D1" start="227" gssp="no" startApprox="yes"/>
+                                                <period name="Carnian" color="D1A6C9" start="237" gssp="yes" startApprox="yes"/>
+                                            </children>
+                                        </period>
+                                        <period name="Middle_Triassic" color="BF7CB1" start="247.2" gssp="no">
+                                            <children>
+                                                <period name="Ladinian" color="D492BD" start="242" gssp="yes" startApprox="yes"/>
+                                                <period name="Anisian" color="C986B6" start="247.2" gssp="no"/>
+                                            </children>
+                                        </period>
+                                        <period name="Early_Triassic" color="AD579A" start="252.17" gssp="yes" accuracy="0.06">
+                                            <children>
+                                                <period name="Olenekian" color="C26AA5" start="251.2" gssp="no"/>
+                                                <period name="Induan" color="B861A0" start="252.17" gssp="yes" accuracy="0.06"/>
+                                            </children>
+                                        </period>
+                                    </children>
+                                </period>
+                            </children>
+                        </period>
+                        <period name="Paleozoic" color="92C3A0" start="541" gssp="yes">
+                            <children>
+                                <period name="Permian" color="F7583C" start="298.9" gssp="yes">
+                                    <children>
+                                        <period name="Lopingian" color="FEAF97" start="259.8" gssp="yes" accuracy="0.4">
+                                            <children>
+                                                <period name="Changhsingian" color="FEC6B3" start="254.14" gssp="yes" accuracy="0.07"/>
+                                                <period name="Wuchiapingian" color="FEBBA5" start="259.8" gssp="yes" accuracy="0.4"/>
+                                            </children>
+                                        </period>
+                                        <period name="Guadalupian" color="FE8367" start="273.3" gssp="yes" accuracy="0.5">
+                                            <children>
+                                                <period name="Capitanian" color="FEA38A" start="265.1" gssp="yes" accuracy="0.4"/>
+                                                <period name="Wordian" color="FE987E" start="268.8" gssp="yes" accuracy="0.5"/>
+                                                <period name="Roadian" color="FE8E72" start="272.3" gssp="yes" accuracy="0.5"/>
+                                            </children>
+                                        </period>
+                                        <period name="Cisuralian" color="F76E54" start="298.9" gssp="yes" accuracy="0.15">
+                                            <children>
+                                                <period name="Kungurian" color="EF947F" start="283.5" gssp="no" accuracy="0.6"/>
+                                                <period name="Artinskian" color="EF8A74" start="290.1" gssp="no" accuracy="0.26"/>
+                                                <period name="Sakmarian" color="EF806A" start="295" gssp="no" accuracy="0.18"/>
+                                                <period name="Asselian" color="F0775F" start="298.9" gssp="yes" accuracy="0.15"/>
+                                            </children>
+                                        </period>
+                                    </children>
+                                </period>
+                                <period name="Carboniferous" color="3FAEAD" start="358.9" gssp="yes" accuracy="0.4">
+                                    <children>
+                                        <period name="Pennsylvanian" color="8AC6C3" start="323.2" gssp="yes" accuracy="0.4">
+                                            <children>
+                                                <period name="Gzhelian" color="CBD5CD" start="303.7" gssp="no" accuracy="0.1"/>
+                                                <period name="Kasimovian" color="BBD1CD" start="307" gssp="no" accuracy="0.1"/>
+                                                <period name="Moscovian" color="AECDC4" start="315.2" gssp="no" accuracy="0.2"/>
+                                                <period name="Bashkirian" color="8AC6C3" start="323.2" gssp="yes" accuracy="0.4"/>
+                                            </children>
+                                        </period>
+                                        <period name="Mississippian" color="619D7E" start="358.9" gssp="yes" accuracy="0.4">
+                                            <children>
+                                                <period name="Serpukhovian" color="C8C281" start="330.9" gssp="no" accuracy="0.2"/>
+                                                <period name="Visean" color="ABBC82" start="346.7" gssp="yes" accuracy="0.4"/>
+                                                <period name="Tournaisian" color="8AB584" start="358.9" gssp="yes" accuracy="0.4"/>
+                                            </children>
+                                        </period>
+                                    </children>
+                                </period>
+                                <period name="Devonian" color="DD9651" start="419.2" gssp="yes" accuracy="3.2">
+                                    <children>
+                                        <period name="Late_Devonian" color="F4E0A9" start="382.7" gssp="yes" accuracy="1.6">
+                                            <children>
+                                                <period name="Famennian" color="F4EAB9" start="372.2" gssp="yes" accuracy="1.6"/>
+                                                <period name="Frasnian" color="F3EBCC" start="382.7" gssp="yes" accuracy="1.6"/>
+                                            </children>
+                                        </period>
+                                        <period name="Middle_Devonian" color="F6C87A" start="393.3" gssp="yes" accuracy="1.2">
+                                            <children>
+                                                <period name="Givetian" color="F5DE94" start="387.7" gssp="yes" accuracy="0.8"/>
+                                                <period name="Eifelian" color="F5D386" start="393.3" gssp="yes" accuracy="1.2"/>
+                                            </children>
+                                        </period>
+                                        <period name="Early_Devonian" color="EFB063" start="419.2" gssp="yes" accuracy="3.2">
+                                            <children>
+                                                <period name="Emsian" color="ECCF87" start="407.6" gssp="yes" accuracy="2.6"/>
+                                                <period name="Pragian" color="EEC57B" start="410.8" gssp="yes" accuracy="2.8"/>
+                                                <period name="Lochkovian" color="EEBA6E" start="419.2" gssp="yes" accuracy="3.2"/>
+                                            </children>
+                                        </period>
+                                    </children>
+                                </period>
+                                <period name="Silurian" color="A6DFC5" start="443.8" gssp="yes" accuracy="1.5">
+                                    <children>
+                                        <period name="Pridoli" color="E4F2E6" start="423" gssp="yes" accuracy="2.3"/>
+                                        <period name="Ludlow" color="B4E5DB" start="427.4" gssp="yes" accuracy="0.5">
+                                            <children>
+                                                <period name="Ludfordian" color="D4EEE6" start="425.6" gssp="yes" accuracy="0.9"/>
+                                                <period name="Gorstian" color="C3EAE6" start="427.4" gssp="yes" accuracy="0.5"/>
+                                            </children>
+                                        </period>
+                                        <period name="Wenlock" color="A4E0D0" start="433.4" gssp="yes" accuracy="0.8">
+                                            <children>
+                                                <period name="Homerian" color="C5E9DB" start="430.5" gssp="yes" accuracy="0.7"/>
+                                                <period name="Sheinwoodian" color="B6E4D0" start="433.4" gssp="yes" accuracy="0.8"/>
+                                            </children>
+                                        </period>
+                                        <period name="Llandovery" color="7ED7C6" start="443.8" gssp="yes" accuracy="1.5">
+                                            <children>
+                                                <period name="Telychian" color="B4E5DB" start="438.5" gssp="yes" accuracy="1.1"/>
+                                                <period name="Aeronian" color="A4E0D0" start="440.8" gssp="yes" accuracy="1.2"/>
+                                                <period name="Rhuddanian" color="93DBC6" start="443.8" gssp="yes" accuracy="1.5"/>
+                                            </children>
+                                        </period>
+                                    </children>
+                                </period>
+                                <period name="Ordovician" color="00A98A" start="485.4" gssp="yes" accuracy="1.9">
+                                    <children>
+                                        <period name="Late_Ordovician" color="5ECCA9" start="458.4" gssp="yes" accuracy="0.9">
+                                            <children>
+                                                <period name="Hirnantian" color="95DABC" start="445.2" gssp="yes" accuracy="1.4"/>
+                                                <period name="Katian" color="81D6BC" start="453" gssp="yes" accuracy="0.7"/>
+                                                <period name="Sandbian" color="72D0A9" start="458.4" gssp="yes" accuracy="0.9"/>
+                                            </children>
+                                        </period>
+                                        <period name="Middle_Ordovician" color="00BD97" start="470" gssp="yes" accuracy="1.4">
+                                            <children>
+                                                <period name="Darriwilian" color="35C9B2" start="467.3" gssp="yes" accuracy="1.1"/>
+                                                <period name="Dapingian" color="12C5A9" start="470" gssp="yes" accuracy="1.4"/>
+                                            </children>
+                                        </period>
+                                        <period name="Early_Ordovician" color="00AF89" start="485.4" gssp="yes" accuracy="1.9">
+                                            <children>
+                                                <period name="Floian" color="00BAA0" start="477.7" gssp="yes" accuracy="1.4"/>
+                                                <period name="Tremadocian" color="00B698" start="485.4" gssp="yes" accuracy="1.9"/>
+                                            </children>
+                                        </period>
+                                    </children>
+                                </period>
+                                <period name="Cambrian" color="81AA72" start="541" gssp="yes" accuracy="1">
+                                    <children>
+                                        <period name="Furongian" color="ADDDA8" start="497" gssp="yes" startApprox="yes">
+                                            <children>
+                                                <period name="Stage_10" color="E5F1D1" start="489.5" gssp="no" startApprox="yes"/>
+                                                <period name="Jiangshanian" color="D8ECC6" start="494" gssp="yes" startApprox="yes"/>
+                                                <period name="Paibian" color="CAE7BC" start="497" gssp="yes" startApprox="yes"/>
+                                            </children>
+                                        </period>
+                                        <period name="Series_3" color="A1CF9B" start="509" gssp="no" startApprox="yes">
+                                            <children>
+                                                <period name="Guzhangian" color="CCDDB8" start="500.5" gssp="yes" startApprox="yes"/>
+                                                <period name="Drumian" color="BFD8AD" start="504.5" gssp="yes" startApprox="yes"/>
+                                                <period name="Stage_5" color="B2D4A3" start="509" gssp="no" startApprox="yes"/>
+                                            </children>
+                                        </period>
+                                        <period name="Series_2" color="95C28F" start="521" gssp="no" startApprox="yes">
+                                            <children>
+                                                <period name="Stage_4" color="B4CBA0" start="514" gssp="no" startApprox="yes"/>
+                                                <period name="Stage_3" color="A5C697" start="521" gssp="no" startApprox="yes"/>
+                                            </children>
+                                        </period>
+                                        <period name="Terreneuvian" color="8AB584" start="541" gssp="yes" accuracy="1">
+                                            <children>
+                                                <period name="Stage_2" color="A8BD93" start="529" gssp="no" startApprox="yes"/>
+                                                <period name="Fortunian" color="9ABA8B" start="541" gssp="yes" accuracy="1"/>
+                                            </children>
+                                        </period>
+                                    </children>
+                                </period>
+                            </children>
+                        </period>
+                    </children>
+                </period>
+            </children>
+        </period>
+        <period name="Precambrian" color="FE5B71" start="4567" gssp="no">
+            <children>
+                <period name="Proterozoic" color="FE4C68" start="2500" gssp="no">
+                    <children>
+                        <period name="Neoproterozoic" color="FEB757" start="1000" gssp="no">
+                            <children>
+                                <period name="Ediacaran" color="FED67B" start="635" gssp="yes" startApprox="yes"/>
+                                <period name="Cryogenian" color="FECC6F" start="720" gssp="no" startApprox="yes"/>
+                                <period name="Tonian" color="FEC262" start="1000" gssp="no"/>
+                            </children>
+                        </period>
+                        <period name="Mesoproterozoic" color="FEB872" start="1600" gssp="no">
+                            <children>
+                                <period name="Stenian" color="FED9A2" start="1200" gssp="no"/>
+                                <period name="Ectasian" color="FECE94" start="1400" gssp="no"/>
+                                <period name="Calymmian" color="FEC386" start="1600" gssp="no"/>
+                            </children>
+                        </period>
+                        <period name="Paleoproterozoic" color="FE5B71" start="2500" gssp="no">
+                            <children>
+                                <period name="Statherian" color="FE86A1" start="1800" gssp="no"/>
+                                <period name="Orosirian" color="FE7B94" start="2050" gssp="no"/>
+                                <period name="Rhyacian" color="FE7087" start="2300" gssp="no"/>
+                                <period name="Siderian" color="FE657B" start="2500" gssp="no"/>
+                            </children>
+                        </period>
+                    </children>
+                </period>
+                <period name="Archean" color="FE007C" start="4000" gssp="no">
+                    <children>
+                        <period name="Neoarchean" color="FEA6BA" start="2800" gssp="no"/>
+                        <period name="Mesoarchean" color="FE7CA3" start="3200" gssp="no"/>
+                        <period name="Paleoarchean" color="FE5B97" start="3600" gssp="no"/>
+                        <period name="Eoarchean" color="EE007D" start="4000" gssp="no"/>
+                    </children>
+                </period>
+                <period name="Hadean" color="CB0381" start="4600" gssp="no" startApprox="yes">
+                </period>
+            </children>
+        </period>
+    </children>
+</period>
