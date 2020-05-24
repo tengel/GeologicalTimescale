@@ -17,10 +17,10 @@
 
 package org.tengel.timescale;
 
+import android.content.Context;
 import android.widget.TableLayout;
 import android.app.Activity;
 import android.widget.TextView;
-import android.widget.Toast;
 import java.lang.Exception;
 import android.widget.TableRow;
 import android.widget.LinearLayout;
@@ -63,6 +63,9 @@ public class Table
     private boolean                   m_showExcerpt     = false;
     private String                    m_excerptName;
     private HashMap<String, Double>   m_durations       = new HashMap<String, Double>();
+    private int                       m_languageIdx     = 0;
+    private String                    m_systemLang;
+    private NamesDb                   m_namesDb;
 
 
     private class SelectionAnimationRunnable implements Runnable
@@ -127,6 +130,11 @@ public class Table
                     }
                 }
             }
+
+            m_namesDb = new NamesDb(m_activity.getResources().openRawResource(R.raw.names));
+            m_systemLang = m_activity.getResources().getConfiguration().locale.getLanguage();
+            m_languageIdx = m_activity.getSharedPreferences(
+                    "settings", Context.MODE_PRIVATE).getInt("language-idx", 0);
 
             TextView dummy = new TextView(m_activity);
             dummy.measure(0, 0);
@@ -369,15 +377,15 @@ public class Table
     }
 
 
-    private void addTitle(TableLayout table, int pColumns)
+    private void addTitle(TableLayout table, int pColumns) throws Exception
     {
         final String[] TITLE = {
-            m_activity.getString(R.string.Supereon),
-            m_activity.getString(R.string.Eon),
-            m_activity.getString(R.string.Era),
-            m_activity.getString(R.string.Period),
-            m_activity.getString(R.string.Epoch),
-            m_activity.getString(R.string.Age)};
+            translateName("head_supereon"),
+            translateName("head_eon"),
+            translateName("head_era"),
+            translateName("head_period"),
+            translateName("head_epoch"),
+            translateName("head_age")};
         TableRow row = new TableRow(m_activity);
         for (int i = m_startColumn - 1; i < pColumns - 1; ++i)
         {
@@ -491,13 +499,23 @@ public class Table
 
     private String translateName(String id) throws Exception
     {
-        int resId = m_activity.getResources().getIdentifier(
-            id, "string", m_activity.getPackageName());
-        if (resId == 0)
+        int langIdx = m_languageIdx;
+        if (m_languageIdx == 0)
         {
-            throw new Exception("String not found: " + id);
+            if (m_systemLang.equals("de"))
+            {
+                langIdx = 2;
+            }
+            else if (m_systemLang.equals("zh"))
+            {
+                langIdx = 3;
+            }
+            else
+            {
+                langIdx = 1;
+            }
         }
-        return m_activity.getString(resId);
+        return m_namesDb.get(id, langIdx);
     }
 
 
@@ -650,6 +668,17 @@ public class Table
         m_selectionActive = false;
         m_showExcerpt     = false;
         update();
+    }
+
+    public void setLanguage(int langIdx)
+    {
+        m_languageIdx = langIdx;
+        update();
+    }
+
+    public int getLanguage()
+    {
+        return m_languageIdx;
     }
 
 }

@@ -28,7 +28,6 @@ import android.widget.LinearLayout;
 import android.text.Html;
 import java.lang.Runnable;
 import android.content.Intent;
-import android.net.Uri;
 
 
 public class TimeScaleMain extends Activity
@@ -77,9 +76,10 @@ public class TimeScaleMain extends Activity
         else
         {
             rootLayout.post(new TableUpdaterRunnable(this, null));
-            getContentResolver().bulkInsert(
-                Uri.parse("content://org.tengel.timescale.search/suggestions"),
-                Table.instance(this).getSearchData());
+
+            getContentResolver().delete(SearchProvider.URI,null, null);
+            getContentResolver().bulkInsert(SearchProvider.URI,
+                                            Table.instance(this).getSearchData());
         }
         getActionBar().setDisplayHomeAsUpEnabled(true);
     }
@@ -140,6 +140,11 @@ public class TimeScaleMain extends Activity
         else if (id == android.R.id.home)
         {
             Table.instance(this).resetView();
+        }
+        else if (id == R.id.option_language)
+        {
+            LanguageDialog d = new LanguageDialog();
+            d.create(this).show();
         }
         else
         {

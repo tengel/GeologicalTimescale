@@ -30,6 +30,10 @@
           android:showAsAction="never"
           android:checkable="true"/>
 
+    <item android:id="@+id/option_language"
+        android:title="@string/menu_language"
+        android:showAsAction="never"/>
+
     <item android:id="@+id/option_help"
           android:title="@string/menu_help"
           android:showAsAction="never"/>

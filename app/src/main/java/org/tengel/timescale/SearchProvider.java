@@ -32,6 +32,7 @@ import java.util.Locale;
 public class SearchProvider extends ContentProvider
 {
     HashMap<String, Object[]> m_names = new HashMap<String, Object[]>();
+    public static final Uri URI = Uri.parse("content://org.tengel.timescale.search/suggestions");
 
 
     @Override
@@ -88,7 +89,9 @@ public class SearchProvider extends ContentProvider
     @Override
     public int delete (Uri uri, String selection, String[] selectionArgs)
     {
-        return 0;
+        int rows = m_names.size();
+        m_names.clear();
+        return rows;
     }
 
 
