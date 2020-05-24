@@ -4,9 +4,12 @@ Phanerozoic	Phanerozoic	Phanerozoikum	顯生宙
 Cenozoic	Cenozoic	Känozoikum	新生代
 Quaternary	Quaternary	Quartär	第四紀
 Holocene	Holocene	Holozän	全新世
+Meghalayan	Meghalayan	Meghalayum	梅加拉亞期
+Northgrippian	Northgrippian	Northgrippium	諾斯格瑞比期
+Greenlandian	Greenlandian	Grönlandium	格陵蘭期
 Pleistocene	Pleistocene	Pleistozän	更新世
 Late_Pleistocene	Late Pleistocene	Altpleistozän	晚更新期
-Middle_Pleistocene	Middle Pleistocene	Mittelpleistozän	中更新期
+Middle_Pleistocene	Chibanian	Mittelpleistozän	中更新期
 Calabrian	Calabrian	Calabrium	卡拉布里亞階
 Gelasian	Gelasian	Gelasium	格拉斯期
 Neogene	Neogene	Neogen	新近紀
@@ -138,10 +141,10 @@ Furongian	Furongian	Furongium	芙蓉世
 Stage_10	Stage 10	10. Stufe	第十期
 Jiangshanian	Jiangshanian	Jiangshanium	江山期
 Paibian	Paibian	Paibium	排碧期
-Series_3	Series 3	3. Serie	第三世
+Series_3	Miaolingian	Miaolingium	第三世
 Guzhangian	Guzhangian	Guzhangium	古丈期
 Drumian	Drumian	Drumium	鼓山期
-Stage_5	Stage 5	5. Stufe	第五期
+Stage_5	Wuliuan	Wuliuum	第五期
 Series_2	Series 2	2. Serie	第二世
 Stage_4	Stage 4	4. Stufe	第四期
 Stage_3	Stage 3	3. Stufe	第三期

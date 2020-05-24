@@ -33,7 +33,9 @@ import android.content.Intent;
 public class TimeScaleMain extends Activity
 {
     private float    m_xLastTouch;
-    private MenuItem m_clearSearch;
+    private MenuItem m_itemClearSearch;
+    private MenuItem m_itemFitScreen;
+    private MenuItem m_itemTrueScale;
 
     private class TableUpdaterRunnable implements Runnable
     {
@@ -90,14 +92,14 @@ public class TimeScaleMain extends Activity
     {
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.menu, menu);
-        MenuItem itemScale = menu.findItem(R.id.option_scale);
-        itemScale.setChecked(Table.instance(this).getTrueScale());
-        MenuItem itemFit = menu.findItem(R.id.option_fit);
-        itemFit.setChecked(Table.instance(this).getFitScreen());
-        m_clearSearch = menu.findItem(R.id.option_clear_search);
+        m_itemTrueScale = menu.findItem(R.id.option_scale);
+        m_itemTrueScale.setChecked(Table.instance(this).getTrueScale());
+        m_itemFitScreen = menu.findItem(R.id.option_fit);
+        m_itemFitScreen.setChecked(Table.instance(this).getFitScreen());
+        m_itemClearSearch = menu.findItem(R.id.option_clear_search);
         if (!Table.instance(this).getSelectionActive())
         {
-            m_clearSearch.setVisible(false);
+            m_itemClearSearch.setVisible(false);
         }
         return super.onCreateOptionsMenu(menu);
     }
@@ -135,11 +137,13 @@ public class TimeScaleMain extends Activity
         else if (id == R.id.option_clear_search)
         {
             Table.instance(this).setSelectionActive(false);
-            m_clearSearch.setVisible(false);
+            m_itemClearSearch.setVisible(false);
         }
         else if (id == android.R.id.home)
         {
             Table.instance(this).resetView();
+            m_itemTrueScale.setChecked(false);
+            m_itemFitScreen.setChecked(false);
         }
         else if (id == R.id.option_language)
         {

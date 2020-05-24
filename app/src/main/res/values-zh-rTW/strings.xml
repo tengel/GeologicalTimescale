@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <resources>
+      <string name="app_name">地質年代</string>
+      <string name="menu_true_scale">呈現實際比例</string>
+      <string name="menu_fit_screen">全螢幕</string>
+      <string name="menu_help">資訊/協助</string>
+      <string name="menu_search">搜尋</string>
+      <string name="menu_clear_search">清除搜尋</string>
+      <string name="menu_plus">增</string>
+      <string name="menu_minus">減</string>
+      <string name="menu_language">語言</string>
+      <string name="lang_chinese">中文</string>
+      <string name="lang_english">英文</string>
+      <string name="lang_german">德文</string>
+      <string name="lang_default">系統語言</string>
+
+      <string name="help_text">
+<![CDATA[
+    <b><u>地質年代</u></b>
+    <br/>
+    <br/>
+    此應用程式顯示地球歷史的地質年代。最近期的地質時期在最上面，最久遠的地質時期在最下面。最大的單位在最左邊，最小的單位在最右邊。
+    <br/>
+    <br/>
+    <br/>
+    <b><u>用法：</u></b>
+    <br/>
+    <br/>
+    <b>加：</b>在右邊增加一欄較小的單位。
+    <br/>
+    <b>減：</b>移除右邊最小的一欄單位。
+    <br/>
+    <b>向左滑動：</b>往較小的單位移動。
+    <br/>
+    <b>S向右澤動：</b>往較大的單位移動。
+    <br/>
+    </br>
+    <br/>
+    <br/>
+    <b><u>Credits</u></b>
+    <br/>
+    <br/>
+    所有資訊來自維基百科。請參考：
+    <a href="https://en.wikipedia.org/wiki/Geologic_time_scale">https://en.wikipedia.org/wiki/Geologic_time_scale</a>
+    <br/>
+    <br/>
+]]>
+      </string>
+
+</resources>
