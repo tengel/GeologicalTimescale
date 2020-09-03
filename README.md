@@ -17,9 +17,12 @@ There is also a search function which highlights the desired period.
 
 ## Download
 
-[<img src="google-play-badge.png"
-      alt="Get it on Google Play"
-      height="75" >](https://play.google.com/store/apps/details?id=org.tengel.timescale)
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/org.tengel.timescale/)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
+     alt="Get it on Google Play"
+     height="75">](https://play.google.com/store/apps/details?id=org.tengel.timescale)
 
 
 ## Screenshots
