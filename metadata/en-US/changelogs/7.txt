@@ -1,0 +1,3 @@
+- update to recent changes of time scale
+- add menu item to choose language
+- several bugfixes
