@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geologisk tidsskala</string>
+
+    <string name="menu_true_scale">Tro mot skala</string>
+    <string name="menu_fit_screen">Tilpass til skjerm</string>
+    <string name="menu_help">Info/Hjelp</string>
+    <string name="menu_search">Søk</string>
+    <string name="menu_clear_search">Fjern søk</string>
+    <string name="menu_plus">pluss</string>
+    <string name="menu_minus">minus</string>
+    <string name="menu_language">Språk</string>
+    <string name="lang_chinese">Kinesisk</string>
+    <string name="lang_english">Engelsk</string>
+    <string name="lang_german">Tysk</string>
+    <string name="lang_default">Systemets språk</string>
+
+    <string name="help_text"><![CDATA[
+    <b><u>Geologisk tidsskala</u></b>
+    <br/>
+    <br/>
+    This App shows the geological timescale of the earth&#039;s history.
+    The most recent geologic periods are at the top, the most ancient periods
+    are at the bottom. The larger units are at the left, the smaller units are
+    at the right.
+    <br/>
+    <br/>
+    <br/>
+    <b><u>Usage:</u></b>
+    <br/>
+    <br/>
+    <b>Plus:</b> Add a column with smaller units at the right.
+    <br/>
+    <b>Minus:</b> Remove the column with smallest units.
+    <br/>
+    <b>Swipe-Left:</b> Move the display towards the smaller units.
+    <br/>
+    <b>Swipe-Right:</b> Move the display towards the larger units.
+    <br/>
+    </br>
+    <br/>
+    <br/>
+    <b><u>Credits</u></b>
+    <br/>
+    <br/>
+    All data is based on Wikipedia. See
+    <a href="https://en.wikipedia.org/wiki/Geologic_time_scale">https://en.wikipedia.org/wiki/Geologic_time_scale</a>
+    <br/>
+    <br/>
+     ]]></string>
+</resources>
