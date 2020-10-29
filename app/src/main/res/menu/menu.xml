@@ -3,12 +3,12 @@
 
     <item android:id="@+id/option_zoom_minus"
           android:title="@string/menu_minus"
-          android:icon="@drawable/ic_remove_circle_outline_white_24dp"
+          android:icon="@drawable/ic_remove"
           android:showAsAction="ifRoom" />
 
     <item android:id="@+id/option_zoom_plus"
           android:title="@string/menu_plus"
-          android:icon="@drawable/ic_add_circle_outline_white_24dp"
+          android:icon="@drawable/ic_add"
           android:showAsAction="ifRoom"/>
 
     <item android:id="@+id/option_clear_search"
@@ -17,7 +17,7 @@
 
     <item android:id="@+id/option_search"
           android:title="@string/menu_search"
-          android:icon="@drawable/ic_search_white_24dp"
+          android:icon="@drawable/ic_search"
           android:showAsAction="ifRoom" />
 
     <item android:id="@+id/option_scale"

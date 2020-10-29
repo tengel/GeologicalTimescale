@@ -116,7 +116,7 @@ public class StartLabel
 
     private TextView createTextView(String text)
     {
-        return createTextView(text, Gravity.LEFT);
+        return createTextView(text, Gravity.START);
     }
 
 
