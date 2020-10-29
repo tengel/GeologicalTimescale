@@ -194,7 +194,14 @@ public class TimeScaleMain extends Activity
     @Override
     public void onBackPressed()
     {
-        Table.instance(this).resetView();
+        if (Table.instance(this).isHome())
+        {
+            super.onBackPressed();
+        }
+        else
+        {
+            Table.instance(this).resetView();
+        }
     }
 
 }

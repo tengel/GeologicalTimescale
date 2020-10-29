@@ -73,19 +73,19 @@ public class StartLabel
         Vector<TextView> views = new Vector<TextView>();
         if (m_period != null && m_period.startApprox == true)
         {
-            views.add(createTextView("~", Gravity.RIGHT));
+            views.add(createTextView("~", Gravity.END));
         }
         else
         {
-            views.add(createTextView("", Gravity.RIGHT));
+            views.add(createTextView("", Gravity.END));
         }
 
-        views.add(createTextView(m_intPart, Gravity.RIGHT));
+        views.add(createTextView(m_intPart, Gravity.END));
 
         if (m_hasFraction)
         {
-            views.add(createTextView(".", Gravity.LEFT));
-            views.add(createTextView(m_fracPart, Gravity.LEFT));
+            views.add(createTextView(".", Gravity.START));
+            views.add(createTextView(m_fracPart, Gravity.START));
         }
         else
         {

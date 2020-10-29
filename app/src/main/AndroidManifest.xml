@@ -19,7 +19,7 @@
         <provider android:name=".SearchProvider"
                   android:authorities="org.tengel.timescale.search"
                   android:enabled="true"
-                  android:exported="true"/>
+                  android:exported="false"/>
 
     </application>
 </manifest>

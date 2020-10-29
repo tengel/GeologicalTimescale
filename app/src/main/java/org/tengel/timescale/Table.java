@@ -217,6 +217,8 @@ public class Table
         MyClickListener clickListener = new MyClickListener();
         MyLongClickListener longClickListener = new MyLongClickListener();
 
+        m_activity.getActionBar().setDisplayHomeAsUpEnabled(!isHome());
+
         try
         {
 
@@ -668,6 +670,13 @@ public class Table
         m_selectionActive = false;
         m_showExcerpt     = false;
         update();
+    }
+
+    public boolean isHome()
+    {
+        return (m_displayColumns  == 4 && m_fitScreen == false && m_trueScale == false &&
+                m_startColumn == 1 && m_startRow == 0 &&
+                m_selectionActive == false && m_showExcerpt == false);
     }
 
     public void setLanguage(int langIdx)
