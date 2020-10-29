@@ -25,6 +25,7 @@ import android.text.Spannable;
 import android.text.SpannableString;
 import android.text.util.Linkify;
 import android.text.method.LinkMovementMethod;
+import android.webkit.WebView;
 import android.widget.TextView;
 import android.widget.ScrollView;
 
@@ -32,32 +33,16 @@ public class InfoDialog
 {
     public static void show(Activity activity, String title, String message)
     {
-        SpannableString s = new SpannableString(message);
-        show(activity, title, s);
-    }
-
-
-    public static void show(Activity activity, String title, Spanned message)
-    {
-        Linkify.addLinks((Spannable)message, Linkify.ALL);
-        TextView tv = new TextView(activity);
-        tv.setText(message);
-        tv.setMovementMethod(LinkMovementMethod.getInstance());
-
-        ScrollView sv = new ScrollView(activity);
-        sv.addView(tv);
+        WebView wv = new WebView(activity);
+        wv.loadData(message, "text/html; charset=utf-8", null);
 
         AlertDialog.Builder builder = new AlertDialog.Builder(activity);
-        builder.setTitle(title);
-        builder.setView(sv);
-        builder.setPositiveButton(
-            "Ok",
-            new DialogInterface.OnClickListener()
-            {
-                public void onClick(DialogInterface dialog, int id)
-                {
-                }
-            });
+        if (title != null)
+        {
+            builder.setTitle(title);
+        }
+        builder.setView(wv);
+        builder.setPositiveButton(R.string.ok, null);
         builder.create().show();
     }
 }

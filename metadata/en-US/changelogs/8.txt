@@ -1,0 +1,4 @@
+- change launcher icon
+- fix problem with back button
+- change layout of info/help dialog
+- add norwegian translation

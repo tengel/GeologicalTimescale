@@ -127,8 +127,10 @@ public class TimeScaleMain extends Activity
         }
         else if (id == R.id.option_help)
         {
-            InfoDialog.show(this, "Help/Info",
-                            Html.fromHtml(getString(R.string.help_text)));
+            InfoDialog.show(this, null,
+                            getString(R.string.help_text).replace(
+                                      "{VERSION}",
+                                      String.valueOf(BuildConfig.VERSION_NAME)));
         }
         else if (id == R.id.option_search)
         {

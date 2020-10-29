@@ -15,39 +15,39 @@
     <string name="lang_german">Deutsch</string>
     <string name="lang_default">Systemsprache</string>
     <string name="lang_norwegian">Norwegisch</string>
+    <string name="ok">OK</string>
 
     <string name="help_text"><![CDATA[
-    <b><u>Geologische Zeitskala</u></b>
-    <br/>
-    <br/>
+    <h1>Geologische Zeitskala</h1>
+
     Die App zeigt die geologische Zeitskala der Erdgeschichte. Die jüngsten
     Einheiten befinden sich oben, die ältesten Einheiten unten. Die langen
     Einheiten befinden sich links, rechts befinden sich die kürzeren und
     detaillierteren Einheiten.
+
     <br/>
     <br/>
+    Version: {VERSION}
     <br/>
-    <b><u>Bedienung:</u></b>
+    <a href="https://github.com/tengel/GeologicalTimescale">
+    https://github.com/tengel/<wbr/>GeologicalTimescale</a>
     <br/>
-    <br/>
-    <b>Plus:</b> An der rechten Seite eine Spalte mit höherem Detailgrad
-    hinzufügen.
-    <br/>
-    <b>Minus:</b> Die Spalte mit dem höchsten Detailgrad entfernen.
-    <br/>
-    <b>Links wischen:</b> Die Ansicht in Richtung der kleineren Einheiten bewegen.
-    <br/>
-    <b>Rechts wischen:</b> Die Ansicht in Richtung der größeren Einheiten bewegen.
-    <br/>
-    </br>
-    <br/>
-    <br/>
-    <b><u>Credits</u></b>
-    <br/>
-    <br/>
+
+    <h2>Bedienung:</h2>
+    <dl>
+      <dt><b>Plus:</b></dt>
+      <dd>An der rechten Seite eine Spalte mit höherem Detailgrad hinzufügen.</dd>
+      <dt><b>Minus:</b></dt>
+      <dd>Die Spalte mit dem höchsten Detailgrad entfernen.</dd>
+      <dt><b>Links wischen:</b></dt>
+      <dd>Die Ansicht in Richtung der kleineren Einheiten bewegen.</dd>
+      <dt><b>Rechts wischen:</b></dt>
+      <dd>Die Ansicht in Richtung der größeren Einheiten bewegen.</dd>
+    </dl>
+
+    <h2>Credits</h2>
     Die Daten in dieser App basieren auf Wikipedia, siehe
-    <a href="https://en.wikipedia.org/wiki/Geologic_time_scale">https://en.wikipedia.org/wiki/Geologic_time_scale</a>
-    <br/>
-    <br/>
+    <a href="https://en.wikipedia.org/wiki/Geologic_time_scale">
+    https://en.wikipedia.org/wiki/<wbr/>Geologic_time_scale</a>
      ]]></string>
 </resources>

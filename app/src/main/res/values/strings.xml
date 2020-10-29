@@ -15,38 +15,39 @@
     <string name="lang_german">German</string>
     <string name="lang_default">System language</string>
     <string name="lang_norwegian">Norwegian</string>
+    <string name="ok">OK</string>
 
     <string name="help_text"><![CDATA[
-    <b><u>Geological Timescale</u></b>
-    <br/>
-    <br/>
+    <h1>Geological Timescale</h1>
+
     This App shows the geological timescale of the earth&#039;s history.
     The most recent geologic periods are at the top, the most ancient periods
     are at the bottom. The larger units are at the left, the smaller units are
     at the right.
+
     <br/>
     <br/>
+    Version: {VERSION}
     <br/>
-    <b><u>Usage:</u></b>
+    <a href="https://github.com/tengel/GeologicalTimescale">
+    https://github.com/tengel/<wbr/>GeologicalTimescale</a>
     <br/>
-    <br/>
-    <b>Plus:</b> Add a column with smaller units at the right.
-    <br/>
-    <b>Minus:</b> Remove the column with smallest units.
-    <br/>
-    <b>Swipe-Left:</b> Move the display towards the smaller units.
-    <br/>
-    <b>Swipe-Right:</b> Move the display towards the larger units.
-    <br/>
-    </br>
-    <br/>
-    <br/>
-    <b><u>Credits</u></b>
-    <br/>
-    <br/>
+
+    <h2>Usage:</h2>
+    <dl>
+      <dt><b>Plus:</b></dt>
+      <dd>Add a column with smaller units at the right.</dd>
+      <dt><b>Minus:</b></dt>
+      <dd>Remove the column with smallest units.</dd>
+      <dt><b>Swipe-Left:</b></dt>
+      <dd>Move the display towards the smaller units.</dd>
+      <dt><b>Swipe-Right:</b></dt>
+      <dd>Move the display towards the larger units.</dd>
+    </dl>
+
+    <h2>Credits</h2>
     All data is based on Wikipedia. See
-    <a href="https://en.wikipedia.org/wiki/Geologic_time_scale">https://en.wikipedia.org/wiki/Geologic_time_scale</a>
-    <br/>
-    <br/>
+    <a href="https://en.wikipedia.org/wiki/Geologic_time_scale">
+    https://en.wikipedia.org/wiki/<wbr/>Geologic_time_scale</a>
      ]]></string>
 </resources>
