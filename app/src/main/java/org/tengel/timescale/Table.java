@@ -512,6 +512,10 @@ public class Table
             {
                 langIdx = 3;
             }
+            else if (m_systemLang.equals("nb"))
+            {
+                langIdx = 4;
+            }
             else
             {
                 langIdx = 1;

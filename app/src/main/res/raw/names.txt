@@ -1,180 +1,180 @@
-root	root	root	root
-n_a	n/a	n/a	n/a
-Phanerozoic	Phanerozoic	Phanerozoikum	顯生宙
-Cenozoic	Cenozoic	Känozoikum	新生代
-Quaternary	Quaternary	Quartär	第四紀
-Holocene	Holocene	Holozän	全新世
-Meghalayan	Meghalayan	Meghalayum	梅加拉亞期
-Northgrippian	Northgrippian	Northgrippium	諾斯格瑞比期
-Greenlandian	Greenlandian	Grönlandium	格陵蘭期
-Pleistocene	Pleistocene	Pleistozän	更新世
-Late_Pleistocene	Late Pleistocene	Altpleistozän	晚更新期
-Middle_Pleistocene	Chibanian	Mittelpleistozän	中更新期
-Calabrian	Calabrian	Calabrium	卡拉布里亞階
-Gelasian	Gelasian	Gelasium	格拉斯期
-Neogene	Neogene	Neogen	新近紀
-Pliocene	Pliocene	Pliozän	上新世
-Piacenzian	Piacenzian	Piacenzium	皮亞琴期
-Zanclean	Zanclean	Zancleum	贊克爾期
-Miocene	Miocene	Miozän	中新世
-Messinian	Messinian	Messinium	墨西拿期
-Tortonian	Tortonian	Tortonium	托爾頓期
-Serravallian	Serravallian	Serravallium	塞拉瓦爾期
-Langhian	Langhian	Langhium	蘭蓋期
-Burdigalian	Burdigalian	Burdigalium	波爾多期
-Aquitanian	Aquitanian	Aquitanium	阿基坦期
-Paleogene	Paleogene	Paläogen	古近紀
-Oligocene	Oligocene	Oligozän	漸新世
-Chattian	Chattian	Chattium	恰特期
-Rupelian	Rupelian	Rupelium	魯培爾期
-Eocene	Eocene	Eozän	始新世
-Priabonian	Priabonian	Priabonium	普里阿邦期
-Bartonian	Bartonian	Bartonium	巴爾頓期
-Lutetian	Lutetian	Lutetium	盧台特期
-Ypresian	Ypresian	Ypresium	伊普雷斯期
-Paleocene	Paleocene	Paläozän	古新世
-Thanetian	Thanetian	Thanetium	贊尼特期
-Selandian	Selandian	Seelandium	塞蘭特期
-Danian	Danian	Danium	達寧期
-Mesozoic	Mesozoic	Mesozoikum	中生代
-Cretaceous	Cretaceous	Kreide	白堊紀
-Late_Cretaceous	Late Cretaceous	Oberkreide	晚白堊世
-Maastrichtian	Maastrichtian	Maastrichtium	馬斯垂克期
-Campanian	Campanian	Campanium	坎帕期
-Santonian	Santonian	Santonium	桑托期
-Coniacian	Coniacian	Coniacium	科尼亞克期
-Turonian	Turonian	Turonium	土侖期
-Cenomanian	Cenomanian	Cenomanium	森諾曼期
-Early_Cretaceous	Early Cretaceous	Unterkreide	早白堊世
-Albian	Albian	Albium	阿爾布期
-Aptian	Aptian	Aptium	阿普第期
-Barremian	Barremian	Barremium	巴列姆期
-Hauterivian	Hauterivian	Hauterivium	豪特里維期
-Valanginian	Valanginian	Valanginium	凡藍今期
-Berriasian	Berriasian	Berriasium	貝里亞期
-Jurassic	Jurassic	Jura	侏羅紀
-Late_Jurassic	Late Jurassic	Oberjura	晚侏羅世
-Tithonian	Tithonian	Tithonium	提通期
-Kimmeridgian	Kimmeridgian	Kimmeridgium	啟莫里期
-Oxfordian	Oxfordian	Oxfordium	牛津期
-Middle_Jurassic	Middle Jurassic	Mitteljura	中侏羅世
-Callovian	Callovian	Callovium	卡洛維期
-Bathonian	Bathonian	Bathonium	巴通期
-Bajocian	Bajocian	Bajocium	巴柔期
-Aalenian	Aalenian	Aalenium	阿連期
-Early_Jurassic	Early Jurassic	Unterjura	早侏羅世
-Toarcian	Toarcian	Toarcium	托阿爾期
-Pliensbachian	Pliensbachian	Pliensbachium	普連斯巴奇期
-Sinemurian	Sinemurian	Sinemurium	錫內穆期
-Hettangian	Hettangian	Hettangium	海塔其期
-Triassic	Triassic	Trias	三疊紀
-Late_Triassic	Late Triassic	Obertrias	晚三疊世
-Rhaetian	Rhaetian	Rhaetium	瑞替期
-Norian	Norian	Norium	諾利期
-Carnian	Carnian	Karnium	卡尼期
-Middle_Triassic	Middle Triassic	Mitteltrias	中三疊世
-Ladinian	Ladinian	Ladinium	拉丁尼期
-Anisian	Anisian	Anisium	安尼西期
-Early_Triassic	Early Triassic	Untertrias	早三疊世
-Olenekian	Olenekian	Olenekium	奧倫尼剋期
-Induan	Induan	Indusium	印度期
-Paleozoic	Paleozoic	Paläozoikum	古生代
-Permian	Permian	Perm	二疊紀
-Lopingian	Lopingian	Lopingium	樂平世
-Changhsingian	Changhsingian	Changhsingium	長興期
-Wuchiapingian	Wuchiapingian	Wuchiapingium	吳家坪期
-Guadalupian	Guadalupian	Guadalupium	瓜德魯普世
-Capitanian	Capitanian	Capitanium	卡匹敦階
-Wordian	Wordian	Wordium	沃德期
-Roadian	Roadian	Roadium	羅德期
-Cisuralian	Cisuralian	Cisuralium	烏拉爾世
-Kungurian	Kungurian	Kungurium	空谷爾期
-Artinskian	Artinskian	Artinskium	阿爾丁斯剋期
-Sakmarian	Sakmarian	Sakmarium	薩克馬爾期
-Asselian	Asselian	Asselium	阿瑟爾期
-Carboniferous	Carboniferous	Karbon	石炭紀
-Pennsylvanian	Pennsylvanian	Pennsylvanium	賓夕法尼亞世
-Gzhelian	Gzhelian	Gzhelium	格舍爾期
-Kasimovian	Kasimovian	Kasimovium	卡西莫夫期
-Moscovian	Moscovian	Moskovium	莫斯科期
-Bashkirian	Bashkirian	Bashkirium	巴什基爾期
-Mississippian	Mississippian	Mississippium	密西西比世
-Serpukhovian	Serpukhovian	Serpukhovium	謝爾普霍夫期
-Visean	Viséan	Viséum	維憲期
-Tournaisian	Tournaisian	Tournaisium	圖爾奈期
-Devonian	Devonian	Devon	泥盆紀
-Late_Devonian	Late Devonian	Oberdevon	晚泥盆世
-Famennian	Famennian	Famennium	法門期
-Frasnian	Frasnian	Frasnium	弗拉斯期
-Middle_Devonian	Middle Devonian	Mitteldevon	中泥盆世
-Givetian	Givetian	Givetium	吉維特期
-Eifelian	Eifelian	Eifelium	艾菲爾期
-Early_Devonian	Early Devonian	Unterdevon	早泥盆世
-Emsian	Emsian	Emsium	埃姆斯期
-Pragian	Pragian	Pragium	布拉格期
-Lochkovian	Lochkovian	Lochkovium	洛赫科夫期
-Silurian	Silurian	Silur	志留紀
-Pridoli	Pridoli	Pridolium	普里道利世
-Ludlow	Ludlow	Ludlow	羅德洛世
-Ludfordian	Ludfordian	Ludfordium	盧德福德期
-Gorstian	Gorstian	Gorstium	戈斯特期
-Wenlock	Wenlock	Wenlock	文洛克世
-Homerian	Homerian	Homerium	侯默期
-Sheinwoodian	Sheinwoodian	Sheinwoodium	申伍德期
-Llandovery	Llandovery	Llandovery	蘭多維利世
-Telychian	Telychian	Telychium	特列奇期
-Aeronian	Aeronian	Aeronium	愛隆期
-Rhuddanian	Rhuddanian	Rhuddanium	魯丹期
-Ordovician	Ordovician	Ordovizium	奧陶紀
-Late_Ordovician	Late Ordovician	Oberordovizium	晚奧陶世
-Hirnantian	Hirnantian	Hirnantium	赫南特期
-Katian	Katian	Katium	凱迪期
-Sandbian	Sandbian	Sandbium	桑比期
-Middle_Ordovician	Middle Ordovician	Mittelordovizium	中奧陶世
-Darriwilian	Darriwilian	Darriwilium	達瑞威爾期
-Dapingian	Dapingian	Dapingium	大坪期
-Early_Ordovician	Early Ordovician	Unterordovizium	早奧陶世
-Floian	Floian	Floium	弗洛期
-Tremadocian	Tremadocian	Tremadocium	特馬豆剋期
-Cambrian	Cambrian	Kambrium	寒武紀
-Furongian	Furongian	Furongium	芙蓉世
-Stage_10	Stage 10	10. Stufe	第十期
-Jiangshanian	Jiangshanian	Jiangshanium	江山期
-Paibian	Paibian	Paibium	排碧期
-Series_3	Miaolingian	Miaolingium	第三世
-Guzhangian	Guzhangian	Guzhangium	古丈期
-Drumian	Drumian	Drumium	鼓山期
-Stage_5	Wuliuan	Wuliuum	第五期
-Series_2	Series 2	2. Serie	第二世
-Stage_4	Stage 4	4. Stufe	第四期
-Stage_3	Stage 3	3. Stufe	第三期
-Terreneuvian	Terreneuvian	Terreneuvium	紐芬蘭世
-Stage_2	Stage 2	2. Stufe	第二期
-Fortunian	Fortunian	Fortunium	幸運期
-Precambrian	Precambrian	Präkambrium	前寒武紀
-Proterozoic	Proterozoic	Proterozoikum	元古宙
-Neoproterozoic	Neoproterozoic	Neoproterozoikum	新元古代
-Ediacaran	Ediacaran	Ediacarium	埃迪卡拉紀
-Cryogenian	Cryogenian	Cryogenium	成冰紀
-Tonian	Tonian	Tonium	拉伸紀
-Mesoproterozoic	Mesoproterozoic	Mesoproterozoikum	中元古代
-Stenian	Stenian	Stenium	狹帶紀
-Ectasian	Ectasian	Ectasium	延展紀
-Calymmian	Calymmian	Calymmium	蓋層紀
-Paleoproterozoic	Paleoproterozoic	Paläoproterozoikum	古元古代
-Statherian	Statherian	Statherium	固結紀
-Orosirian	Orosirian	Orosirium	造山紀
-Rhyacian	Rhyacian	Rhyacium	層侵紀
-Siderian	Siderian	Siderium	成鐵紀
-Archean	Archean	Archaikum	太古宙
-Neoarchean	Neoarchean	Neoarchaikum	新太古代
-Mesoarchean	Mesoarchean	Mesoarchaikum	中太古代
-Paleoarchean	Paleoarchean	Paläoarchaikum	古太古代
-Eoarchean	Eoarchean	Eoarchaikum	始太古代
-Hadean	Hadean	Hadaikum	冥古宙
-head_supereon	 	 	 
-head_eon	Eonothem	Äonothem	宇
-head_era	Erathem	Ärathem	界
-head_period	System	System	系
-head_epoch	Series	Serie	統
-head_age	Stage	Stufe	階
+root	root	root	root	root
+n_a	n/a	n/a	n/a	n/a
+Phanerozoic	Phanerozoic	Phanerozoikum	顯生宙	Fanerozoikum
+Cenozoic	Cenozoic	Känozoikum	新生代	Kenozoikum
+Quaternary	Quaternary	Quartär	第四紀	Kvartær
+Holocene	Holocene	Holozän	全新世	Holocen
+Meghalayan	Meghalayan	Meghalayum	梅加拉亞期	Meghalaya
+Northgrippian	Northgrippian	Northgrippium	諾斯格瑞比期	Nordgrip
+Greenlandian	Greenlandian	Grönlandium	格陵蘭期	Grønland
+Pleistocene	Pleistocene	Pleistozän	更新世	Pleistocen
+Late_Pleistocene	Late Pleistocene	Altpleistozän	晚更新期	Øvre pleistocen
+Middle_Pleistocene	Chibanian	Mittelpleistozän	中更新期	Midtre pleistocen
+Calabrian	Calabrian	Calabrium	卡拉布里亞階	Calabria
+Gelasian	Gelasian	Gelasium	格拉斯期	Gela
+Neogene	Neogene	Neogen	新近紀	Neogen
+Pliocene	Pliocene	Pliozän	上新世	Pliocen
+Piacenzian	Piacenzian	Piacenzium	皮亞琴期	Piacenza
+Zanclean	Zanclean	Zancleum	贊克爾期	Zancle
+Miocene	Miocene	Miozän	中新世	Miocen
+Messinian	Messinian	Messinium	墨西拿期	Messina
+Tortonian	Tortonian	Tortonium	托爾頓期	Tortona
+Serravallian	Serravallian	Serravallium	塞拉瓦爾期	Serravalle
+Langhian	Langhian	Langhium	蘭蓋期	Langhe
+Burdigalian	Burdigalian	Burdigalium	波爾多期	Burdigala
+Aquitanian	Aquitanian	Aquitanium	阿基坦期	Aquitain
+Paleogene	Paleogene	Paläogen	古近紀	Paleogen
+Oligocene	Oligocene	Oligozän	漸新世	Oligocen
+Chattian	Chattian	Chattium	恰特期	Chatt
+Rupelian	Rupelian	Rupelium	魯培爾期	Rupel
+Eocene	Eocene	Eozän	始新世	Eocen
+Priabonian	Priabonian	Priabonium	普里阿邦期	Priabona
+Bartonian	Bartonian	Bartonium	巴爾頓期	Barton
+Lutetian	Lutetian	Lutetium	盧台特期	Lutetia
+Ypresian	Ypresian	Ypresium	伊普雷斯期	Ypres
+Paleocene	Paleocene	Paläozän	古新世	Paleocen
+Thanetian	Thanetian	Thanetium	贊尼特期	Thanet
+Selandian	Selandian	Seelandium	塞蘭特期	Sjælland
+Danian	Danian	Danium	達寧期	Dan
+Mesozoic	Mesozoic	Mesozoikum	中生代	Mesozoikum
+Cretaceous	Cretaceous	Kreide	白堊紀	Kritt
+Late_Cretaceous	Late Cretaceous	Oberkreide	晚白堊世	Øvre kritt
+Maastrichtian	Maastrichtian	Maastrichtium	馬斯垂克期	Maastricht
+Campanian	Campanian	Campanium	坎帕期	Campan
+Santonian	Santonian	Santonium	桑托期	Santon
+Coniacian	Coniacian	Coniacium	科尼亞克期	Coniac
+Turonian	Turonian	Turonium	土侖期	Turon
+Cenomanian	Cenomanian	Cenomanium	森諾曼期	Cenoman
+Early_Cretaceous	Early Cretaceous	Unterkreide	早白堊世	Undre kritt
+Albian	Albian	Albium	阿爾布期	Alba
+Aptian	Aptian	Aptium	阿普第期	Apt
+Barremian	Barremian	Barremium	巴列姆期	Barrem
+Hauterivian	Hauterivian	Hauterivium	豪特里維期	Hauteriv
+Valanginian	Valanginian	Valanginium	凡藍今期	Valangin
+Berriasian	Berriasian	Berriasium	貝里亞期	Berrias
+Jurassic	Jurassic	Jura	侏羅紀	Jura
+Late_Jurassic	Late Jurassic	Oberjura	晚侏羅世	Øvre jura
+Tithonian	Tithonian	Tithonium	提通期	Tithon
+Kimmeridgian	Kimmeridgian	Kimmeridgium	啟莫里期	Kimmeridge
+Oxfordian	Oxfordian	Oxfordium	牛津期	Oxford
+Middle_Jurassic	Middle Jurassic	Mitteljura	中侏羅世	Midtre jura
+Callovian	Callovian	Callovium	卡洛維期	Callov
+Bathonian	Bathonian	Bathonium	巴通期	Bathon
+Bajocian	Bajocian	Bajocium	巴柔期	Bajoc
+Aalenian	Aalenian	Aalenium	阿連期	Aalen
+Early_Jurassic	Early Jurassic	Unterjura	早侏羅世	Undre jura
+Toarcian	Toarcian	Toarcium	托阿爾期	Toarc
+Pliensbachian	Pliensbachian	Pliensbachium	普連斯巴奇期	Pliensbach
+Sinemurian	Sinemurian	Sinemurium	錫內穆期	Sinemur
+Hettangian	Hettangian	Hettangium	海塔其期	Hettang
+Triassic	Triassic	Trias	三疊紀	Trias
+Late_Triassic	Late Triassic	Obertrias	晚三疊世	Øvre trias
+Rhaetian	Rhaetian	Rhaetium	瑞替期	Ræt
+Norian	Norian	Norium	諾利期	Nor
+Carnian	Carnian	Karnium	卡尼期	Karn
+Middle_Triassic	Middle Triassic	Mitteltrias	中三疊世	Midtre trias
+Ladinian	Ladinian	Ladinium	拉丁尼期	Ladin
+Anisian	Anisian	Anisium	安尼西期	Anis
+Early_Triassic	Early Triassic	Untertrias	早三疊世	Undre trias
+Olenekian	Olenekian	Olenekium	奧倫尼剋期	Olenek
+Induan	Induan	Indusium	印度期	Indus
+Paleozoic	Paleozoic	Paläozoikum	古生代	Paleozoikum
+Permian	Permian	Perm	二疊紀	Perm
+Lopingian	Lopingian	Lopingium	樂平世	Loping
+Changhsingian	Changhsingian	Changhsingium	長興期	Changxing
+Wuchiapingian	Wuchiapingian	Wuchiapingium	吳家坪期	Wujiaping
+Guadalupian	Guadalupian	Guadalupium	瓜德魯普世	Guadalup
+Capitanian	Capitanian	Capitanium	卡匹敦階	Capitan
+Wordian	Wordian	Wordium	沃德期	Word
+Roadian	Roadian	Roadium	羅德期	Road
+Cisuralian	Cisuralian	Cisuralium	烏拉爾世	Cisural
+Kungurian	Kungurian	Kungurium	空谷爾期	Kungur
+Artinskian	Artinskian	Artinskium	阿爾丁斯剋期	Artinsk
+Sakmarian	Sakmarian	Sakmarium	薩克馬爾期	Sakmara
+Asselian	Asselian	Asselium	阿瑟爾期	Assel
+Carboniferous	Carboniferous	Karbon	石炭紀	Karbon
+Pennsylvanian	Pennsylvanian	Pennsylvanium	賓夕法尼亞世	Pennsylvania
+Gzhelian	Gzhelian	Gzhelium	格舍爾期	Gzhel
+Kasimovian	Kasimovian	Kasimovium	卡西莫夫期	Kasimov
+Moscovian	Moscovian	Moskovium	莫斯科期	Moskva
+Bashkirian	Bashkirian	Bashkirium	巴什基爾期	Basjkir
+Mississippian	Mississippian	Mississippium	密西西比世	Mississippi
+Serpukhovian	Serpukhovian	Serpukhovium	謝爾普霍夫期	Serpukhov
+Visean	Viséan	Viséum	維憲期	Visé
+Tournaisian	Tournaisian	Tournaisium	圖爾奈期	Tournai
+Devonian	Devonian	Devon	泥盆紀	Devon
+Late_Devonian	Late Devonian	Oberdevon	晚泥盆世	Øvre devon
+Famennian	Famennian	Famennium	法門期	Famenn
+Frasnian	Frasnian	Frasnium	弗拉斯期	Frasne
+Middle_Devonian	Middle Devonian	Mitteldevon	中泥盆世	Midtre devon
+Givetian	Givetian	Givetium	吉維特期	Givet
+Eifelian	Eifelian	Eifelium	艾菲爾期	Eifel
+Early_Devonian	Early Devonian	Unterdevon	早泥盆世	Undre devon
+Emsian	Emsian	Emsium	埃姆斯期	Ems
+Pragian	Pragian	Pragium	布拉格期	Praha
+Lochkovian	Lochkovian	Lochkovium	洛赫科夫期	Lochkov
+Silurian	Silurian	Silur	志留紀	Silur
+Pridoli	Pridoli	Pridolium	普里道利世	Pridoli
+Ludlow	Ludlow	Ludlow	羅德洛世	Ludlow
+Ludfordian	Ludfordian	Ludfordium	盧德福德期	Ludford
+Gorstian	Gorstian	Gorstium	戈斯特期	Gorsty
+Wenlock	Wenlock	Wenlock	文洛克世	Wenlock
+Homerian	Homerian	Homerium	侯默期	Homer
+Sheinwoodian	Sheinwoodian	Sheinwoodium	申伍德期	Sheinwood
+Llandovery	Llandovery	Llandovery	蘭多維利世	Llandovery
+Telychian	Telychian	Telychium	特列奇期	Telych
+Aeronian	Aeronian	Aeronium	愛隆期	Aeron
+Rhuddanian	Rhuddanian	Rhuddanium	魯丹期	Rhuddan
+Ordovician	Ordovician	Ordovizium	奧陶紀	Ordovicium
+Late_Ordovician	Late Ordovician	Oberordovizium	晚奧陶世	Øvre ordovicium
+Hirnantian	Hirnantian	Hirnantium	赫南特期	Hirnant
+Katian	Katian	Katium	凱迪期	Katy
+Sandbian	Sandbian	Sandbium	桑比期	Sandby
+Middle_Ordovician	Middle Ordovician	Mittelordovizium	中奧陶世	Midtre ordovicium
+Darriwilian	Darriwilian	Darriwilium	達瑞威爾期	Darriwil
+Dapingian	Dapingian	Dapingium	大坪期	Daping
+Early_Ordovician	Early Ordovician	Unterordovizium	早奧陶世	Undre ordovicium
+Floian	Floian	Floium	弗洛期	Flo
+Tremadocian	Tremadocian	Tremadocium	特馬豆剋期	Tremadoc
+Cambrian	Cambrian	Kambrium	寒武紀	Kambrium
+Furongian	Furongian	Furongium	芙蓉世	Furong
+Stage_10	Stage 10	10. Stufe	第十期	Etasje 10
+Jiangshanian	Jiangshanian	Jiangshanium	江山期	Jiangshan
+Paibian	Paibian	Paibium	排碧期	Paibi
+Series_3	Miaolingian	Miaolingium	第三世	Serie 3
+Guzhangian	Guzhangian	Guzhangium	古丈期	Guzhang
+Drumian	Drumian	Drumium	鼓山期	Drum
+Stage_5	Wuliuan	Wuliuum	第五期	Etasje 5
+Series_2	Series 2	2. Serie	第二世	Serie 2
+Stage_4	Stage 4	4. Stufe	第四期	Etasje 4
+Stage_3	Stage 3	3. Stufe	第三期	Etasje 3
+Terreneuvian	Terreneuvian	Terreneuvium	紐芬蘭世	Terreneuv
+Stage_2	Stage 2	2. Stufe	第二期	Etasje 2
+Fortunian	Fortunian	Fortunium	幸運期	Fortune
+Precambrian	Precambrian	Präkambrium	前寒武紀	Prekambrium
+Proterozoic	Proterozoic	Proterozoikum	元古宙	Proterozoikum
+Neoproterozoic	Neoproterozoic	Neoproterozoikum	新元古代	Neoproterozoikum
+Ediacaran	Ediacaran	Ediacarium	埃迪卡拉紀	Ediacara
+Cryogenian	Cryogenian	Cryogenium	成冰紀	Kryogen
+Tonian	Tonian	Tonium	拉伸紀	Ton
+Mesoproterozoic	Mesoproterozoic	Mesoproterozoikum	中元古代	Mesoproterozoikum
+Stenian	Stenian	Stenium	狹帶紀	Sten
+Ectasian	Ectasian	Ectasium	延展紀	Ektas
+Calymmian	Calymmian	Calymmium	蓋層紀	Kalym
+Paleoproterozoic	Paleoproterozoic	Paläoproterozoikum	古元古代	Paleoproterozoikum
+Statherian	Statherian	Statherium	固結紀	Stather
+Orosirian	Orosirian	Orosirium	造山紀	Orosir
+Rhyacian	Rhyacian	Rhyacium	層侵紀	Ryax
+Siderian	Siderian	Siderium	成鐵紀	Sider
+Archean	Archean	Archaikum	太古宙	Arkeikum
+Neoarchean	Neoarchean	Neoarchaikum	新太古代	Neoarkeikum
+Mesoarchean	Mesoarchean	Mesoarchaikum	中太古代	Mesoarkeikum
+Paleoarchean	Paleoarchean	Paläoarchaikum	古太古代	Paleoarkeikum
+Eoarchean	Eoarchean	Eoarchaikum	始太古代	Eoarkeikum
+Hadean	Hadean	Hadaikum	冥古宙	Hadeikum
+head_supereon	 	 	 	 
+head_eon	Eonothem	Äonothem	宇	Eon
+head_era	Erathem	Ärathem	界	Æra
+head_period	System	System	系	Periode
+head_epoch	Series	Serie	統	Epoke
+head_age	Stage	Stufe	階	Alder

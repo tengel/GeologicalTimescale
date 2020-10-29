@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Geological Timescale</string>
+    <string name="app_name">Geologisk tidsskala</string>
 
-    <string name="menu_true_scale">True to Scale</string>
-    <string name="menu_fit_screen">Fit to Screen</string>
-    <string name="menu_help">Info/Help</string>
-    <string name="menu_search">Search</string>
-    <string name="menu_clear_search">Clear Search</string>
-    <string name="menu_plus">plus</string>
+    <string name="menu_true_scale">Tro mot skala</string>
+    <string name="menu_fit_screen">Tilpass til skjerm</string>
+    <string name="menu_help">Info/Hjelp</string>
+    <string name="menu_search">Søk</string>
+    <string name="menu_clear_search">Fjern søk</string>
+    <string name="menu_plus">pluss</string>
     <string name="menu_minus">minus</string>
-    <string name="menu_language">Language</string>
-    <string name="lang_chinese">Chinese</string>
-    <string name="lang_english">English</string>
-    <string name="lang_german">German</string>
-    <string name="lang_default">System language</string>
-    <string name="lang_norwegian">Norwegian</string>
+    <string name="menu_language">Språk</string>
+    <string name="lang_chinese">Kinesisk</string>
+    <string name="lang_english">Engelsk</string>
+    <string name="lang_german">Tysk</string>
+    <string name="lang_default">Systemets språk</string>
+    <string name="lang_norwegian">Norsk</string>
 
     <string name="help_text"><![CDATA[
-    <b><u>Geological Timescale</u></b>
+    <b><u>Geologisk tidsskala</u></b>
     <br/>
     <br/>
     This App shows the geological timescale of the earth&#039;s history.

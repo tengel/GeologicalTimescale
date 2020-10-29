@@ -4,6 +4,7 @@
          <item>@string/lang_default</item>
          <item>@string/lang_english</item>
          <item>@string/lang_german</item>>
-         <item>@string/lang_chinese</item>>
+         <item>@string/lang_chinese</item>
+         <item>@string/lang_norwegian</item>
     </string-array>
 </resources>
