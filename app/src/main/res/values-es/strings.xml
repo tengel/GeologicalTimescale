@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Escala temporal geológica</string>
+
+    <string name="menu_true_scale">Escala real</string>
+    <string name="menu_fit_screen">Ajustar a la pantalla</string>
+    <string name="menu_help">Info/Ayuda</string>
+    <string name="menu_search">Buscar</string>
+    <string name="menu_clear_search">Limpiar búsqueda</string>
+    <string name="menu_plus">más</string>
+    <string name="menu_minus">menos</string>
+    <string name="menu_language">Lenguaje</string>
+    <string name="lang_chinese">Chino</string>
+    <string name="lang_english">Inglés</string>
+    <string name="lang_german">Alemán</string>
+    <string name="lang_default">Lenguaje del sistema</string>
+    <string name="lang_norwegian">Noruego</string>
+    <string name="lang_spanish">Español</string>
+    <string name="ok">Aceptar</string>
+
+    <string name="help_text"><![CDATA[
+    <h1>Escala temporal geológica</h1>
+    Esta aplicación muestra la escala temporal geológica de la historia de la tierra.
+    Los más recientes periodos geológicos están en la parte superior, los
+    más antiguos en la inferior. Las unidades mayores están a la izquierda,
+    las menores a la derecha.
+    <br/>
+    <br/>
+    Versión: {VERSION}
+    <br/>
+    <a href="https://github.com/tengel/GeologicalTimescale">
+    https://github.com/tengel/<wbr/>GeologicalTimescale</a>
+    <br/>
+    <h2>Uso:</h2>
+    <dl>
+      <dt><b>Más:</b></dt>
+      <dd>Añadir una columna con unidades más pequeñas a la derecha.</dd>
+      <dt><b>Menos:</b></dt>
+      <dd>Borrar la columna con las unidades más pequeñas.</dd>
+      <dt><b>Deslizar a la izquierda:</b></dt>
+      <dd>Mover la imagen hacia las unidades más pequeñas.</dd>
+      <dt><b>Deslizar hacia la derecha:</b></dt>
+      <dd>Mover la imagen hacia las unidades más grandes.</dd>
+    </dl>
+    <h2>Créditos</h2>
+    Todos los datos están basados en Wikipedia. Vea:
+        <a href="https://en.wikipedia.org/wiki/Geologic_time_scale">
+    https://en.wikipedia.org/wiki/<wbr/>Geologic_time_scale</a>
+    La traducción al español está basada en la correspondiente 
+    página de Wikipedia en español:
+    <a href="https://es.wikipedia.org/wiki/Escala_temporal_geol%C3%B3gica">
+    https://es.wikipedia.org/wiki/Escala_temporal_geológica</a>
+     ]]></string>
+</resources>

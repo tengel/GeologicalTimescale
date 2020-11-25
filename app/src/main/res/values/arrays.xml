@@ -6,5 +6,6 @@
          <item>@string/lang_german</item>>
          <item>@string/lang_chinese</item>
          <item>@string/lang_norwegian</item>
-    </string-array>
+         <item>@string/lang_spanish</item>
+     </string-array>
 </resources>
