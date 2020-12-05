@@ -516,6 +516,10 @@ public class Table
             {
                 langIdx = 4;
             }
+            else if (m_systemLang.equals("es"))
+            {
+                langIdx = 5;
+            }
             else
             {
                 langIdx = 1;
