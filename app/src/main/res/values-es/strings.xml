@@ -20,10 +20,12 @@
 
     <string name="help_text"><![CDATA[
     <h1>Escala temporal geológica</h1>
-    Esta aplicación muestra la escala temporal geológica de la historia de la tierra.
-    Los más recientes periodos geológicos están en la parte superior, los
-    más antiguos en la inferior. Las unidades mayores están a la izquierda,
-    las menores a la derecha.
+    Esta aplicación muestra la escala temporal geológica de la historia
+    de la tierra.
+    Los periodos geológicos más recientes están en la parte superior, 
+    los más antiguos en la inferior.
+    Las unidades de tiempo mayores
+    están a la izquierda, las menores a la derecha.
     <br/>
     <br/>
     Versión: {VERSION}
@@ -49,6 +51,6 @@
     La traducción al español está basada en la correspondiente 
     página de Wikipedia en español:
     <a href="https://es.wikipedia.org/wiki/Escala_temporal_geol%C3%B3gica">
-    https://es.wikipedia.org/wiki/Escala_temporal_geológica</a>
+    https://es.wikipedia.org/wiki/<wbr/>Escala_temporal_geológica</a>
      ]]></string>
 </resources>
