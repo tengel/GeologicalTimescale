@@ -172,7 +172,7 @@ Mesoarchean	Mesoarchean	Mesoarchaikum	中太古代	Mesoarkeikum	Mesoarcaico
 Paleoarchean	Paleoarchean	Paläoarchaikum	古太古代	Paleoarkeikum	Paleoarcaico
 Eoarchean	Eoarchean	Eoarchaikum	始太古代	Eoarkeikum	Eoarcaico
 Hadean	Hadean	Hadaikum	冥古宙	Hadeikum	Hádico
-head_supereon	 	 	 	 	
+head_supereon	 	 	 	 	 
 head_eon	Eonothem	Äonothem	宇	Eon	Eón
 head_era	Erathem	Ärathem	界	Æra	Era
 head_period	System	System	系	Periode	Periodo
