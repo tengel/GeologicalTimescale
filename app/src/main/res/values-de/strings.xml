@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Geologische Zeitskala</string>
-
     <string name="menu_true_scale">Maßstabsgetreu</string>
     <string name="menu_fit_screen">In Bildschirm einpassen</string>
     <string name="menu_help">Info/Hilfe</string>
@@ -15,6 +14,7 @@
     <string name="lang_german">Deutsch</string>
     <string name="lang_default">Systemsprache</string>
     <string name="lang_norwegian">Norwegisch</string>
+    <string name="lang_spanish">Spanisch</string>
     <string name="ok">OK</string>
 
     <string name="help_text"><![CDATA[
