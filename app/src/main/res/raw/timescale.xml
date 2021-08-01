@@ -62,7 +62,7 @@
                                         </period>
                                         <period name="Eocene" color="FEB979" start="56" gssp="yes">
                                             <children>
-                                                <period name="Priabonian" color="FECFA7" start="37.9" gssp="no"/>
+                                                <period name="Priabonian" color="FECFA7" start="37.71" gssp="yes"/>
                                                 <period name="Bartonian" color="FEC498" start="41.2" gssp="no"/>
                                                 <period name="Lutetian" color="FEB98A" start="47.8" gssp="yes"/>
                                                 <period name="Ypresian" color="FEAE7D" start="56" gssp="yes"/>
@@ -88,7 +88,7 @@
                                                 <period name="Maastrichtian" color="F3F29C" start="72.1" gssp="yes" accuracy="0.2"/>
                                                 <period name="Campanian" color="EAED93" start="83.6" gssp="no" accuracy="0.2"/>
                                                 <period name="Santonian" color="DEE78A" start="86.3" gssp="yes" accuracy="0.5"/>
-                                                <period name="Coniacian" color="D1E382" start="89.8" gssp="no" accuracy="0.3"/>
+                                                <period name="Coniacian" color="D1E382" start="89.8" gssp="yes" accuracy="0.3"/>
                                                 <period name="Turonian" color="C3DF79" start="93.9" gssp="yes"/>
                                                 <period name="Cenomanian" color="B5DA71" start="100.5" gssp="yes"/>
                                             </children>
@@ -110,7 +110,7 @@
                                         <period name="Late_Jurassic" color="97E3FA" start="163.5" gssp="no" accuracy="1">
                                             <children>
                                                 <period name="Tithonian" color="CFF0FC" start="152.1" gssp="no" accuracy="0.9"/>
-                                                <period name="Kimmeridgian" color="BDEBFB" start="157.3" gssp="no" accuracy="1"/>
+                                                <period name="Kimmeridgian" color="BDEBFB" start="157.3" gssp="yes" accuracy="1"/>
                                                 <period name="Oxfordian" color="ABE7FB" start="163.5" gssp="no" accuracy="1"/>
                                             </children>
                                         </period>

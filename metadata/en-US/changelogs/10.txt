@@ -1,0 +1,3 @@
+- New GSSPs: Coniacian, Kimmeridgian, Priabonian
+- Norwegian translation updated.
+- Use default background color for empty area.

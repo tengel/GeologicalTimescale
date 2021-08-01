@@ -1,5 +1,5 @@
 root	root	root	root	root	root
-n_a	n/a	n/a	n/a	n/a	n/a
+n_a	 	 	 	 	 
 Phanerozoic	Phanerozoic	Phanerozoikum	顯生宙	Fanerozoikum	Fanerozoico
 Cenozoic	Cenozoic	Känozoikum	新生代	Kenozoikum	Cenozoico
 Quaternary	Quaternary	Quartär	第四紀	Kvartær	Cuaternario

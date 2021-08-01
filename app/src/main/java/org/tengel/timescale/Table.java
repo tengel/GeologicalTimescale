@@ -322,7 +322,10 @@ public class Table
                         tv.setTextColor(0xff000000);
                         tv.setText(translateName(p));
                     case COLOR_ONLY:
-                        tv.setBackgroundColor(p.color);
+                        if (p.color != 0xff000000)
+                        {
+                            tv.setBackgroundColor(p.color);
+                        }
                     case EMPTY:
                     }
                     if (p.selected == true)
