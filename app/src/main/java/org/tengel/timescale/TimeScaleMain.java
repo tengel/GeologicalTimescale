@@ -144,8 +144,8 @@ public class TimeScaleMain extends Activity
         else if (id == android.R.id.home)
         {
             Table.instance(this).resetView();
-            m_itemTrueScale.setChecked(false);
-            m_itemFitScreen.setChecked(false);
+            m_itemTrueScale.setChecked(Table.instance(this).getTrueScale());
+            m_itemFitScreen.setChecked(Table.instance(this).getFitScreen());
         }
         else if (id == R.id.option_language)
         {

@@ -673,8 +673,6 @@ public class Table
     public void resetView()
     {
         m_displayColumns  = 4;
-        m_fitScreen       = false;
-        m_trueScale       = false;
         m_startColumn     = 1;
         m_startRow        = 0;
         m_endRow          = 0;
