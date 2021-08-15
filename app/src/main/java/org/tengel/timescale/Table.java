@@ -335,6 +335,7 @@ public class Table
                         a.addFrame(new ColorDrawable(p.color), 1000);
                         a.setEnterFadeDuration(500);
                         a.setExitFadeDuration(500);
+                        a.setOneShot(true);
                         tv.setBackgroundDrawable(a);
                         m_bgAnimations.add(a);
                     }
@@ -591,6 +592,10 @@ public class Table
     public void setSelectionActive(boolean selectionActive)
     {
         m_selectionActive = selectionActive;
+        if (selectionActive == false)
+        {
+            m_bgAnimations.clear();
+        }
     }
 
 

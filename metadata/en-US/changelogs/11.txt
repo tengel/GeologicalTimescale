@@ -1,0 +1,2 @@
+- Pressing 'Back' preserves setting of 'True to Scale' and 'Fit to Screen'.
+- Fix 'Clear Search'.
