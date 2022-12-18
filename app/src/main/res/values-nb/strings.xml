@@ -12,6 +12,8 @@
     <string name="lang_chinese">Kinesisk</string>
     <string name="lang_english">Engelsk</string>
     <string name="lang_german">Tysk</string>
+    <string name="lang_punjabi_shahmukhi">Punjabi Shahmukhi</string>
+    <string name="lang_punjabi_gurmukhi">Punjabi Gurmukhi</string>
     <string name="lang_default">Systemets språk</string>
     <string name="lang_norwegian">Norsk</string>
     <string name="lang_spanish">Spansk</string>

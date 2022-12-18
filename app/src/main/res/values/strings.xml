@@ -12,6 +12,8 @@
     <string name="lang_chinese">Chinese</string>
     <string name="lang_english">English</string>
     <string name="lang_german">German</string>
+    <string name="lang_punjabi_shahmukhi">Punjabi Shahmukhi</string>
+    <string name="lang_punjabi_gurmukhi">Punjabi Gurmukhi</string>
     <string name="lang_default">System language</string>
     <string name="lang_norwegian">Norwegian</string>
     <string name="lang_spanish">Spanish</string>

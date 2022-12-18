@@ -7,5 +7,7 @@
         <item>@string/lang_chinese</item>
         <item>@string/lang_norwegian</item>
         <item>@string/lang_spanish</item>
+        <item>@string/lang_punjabi_shahmukhi</item>
+        <item>@string/lang_punjabi_gurmukhi</item>
     </string-array>
 </resources>

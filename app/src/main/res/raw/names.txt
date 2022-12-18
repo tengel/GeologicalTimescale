@@ -1,180 +1,180 @@
-root	root	root	root	root	root  root  root
-n_a	 	 	 	 	 
-Phanerozoic	Phanerozoic	Phanerozoikum	顯生宙	Fanerozoikum	Fanerozoico بھو گربھک ਭੂ-ਗਰਭਕ
-Cenozoic	Cenozoic	Känozoikum	新生代	Kenozoikum	Cenozoico نوجیو ਨਵਜੀਵ
-Quaternary	Quaternary	Quartär	第四紀	Kvartær	Cuaternario چَوتھا  ਚੌਥਾ
-Holocene	Holocene	Holozän	全新世	Holocen	Holoceno  ابھنو ਅਭਿਨਵ
-Meghalayan	Meghalayan	Meghalayum	梅加拉亞期	Meghalaya	Megalayense میگھالیا  ਮੇਘਾਲਿਆ
-Northgrippian	Northgrippian	Northgrippium	諾斯格瑞比期	Nordgrip	Norgripiense نورتھگرِپیائی ਨੋਰਥਗਰਿਪਿਆਨ
-Greenlandian	Greenlandian	Grönlandium	格陵蘭期	Grønland	Groenlandiense  گرینلانڈیائی ਗਰੀਨਲੈਂਡੀਆਈ
-Pleistocene	Pleistocene	Pleistozän	更新世	Pleistocen	Pleistoceno
-Late_Pleistocene	Late Pleistocene	Altpleistozän	晚更新期	Øvre pleistocen	Tarantiense
-Middle_Pleistocene	Chibanian	Mittelpleistozän	中更新期	Midtre pleistocen	Chibaniense
-Calabrian	Calabrian	Calabrium	卡拉布里亞階	Calabria	Calabriense کالابریائی
-Gelasian	Gelasian	Gelasium	格拉斯期	Gela	Gelasiense  گیلاسیائی
-Neogene	Neogene	Neogen	新近紀	Neogen	Neógeno
-Pliocene	Pliocene	Pliozän	上新世	Pliocen	Plioceno
-Piacenzian	Piacenzian	Piacenzium	皮亞琴期	Piacenza	Piacenziense  پیاسینزیائی
-Zanclean	Zanclean	Zancleum	贊克爾期	Zancle	Zancliense  زینکلیائی
-Miocene	Miocene	Miozän	中新世	Miocen	Mioceno
-Messinian	Messinian	Messinium	墨西拿期	Messina	Messiniense میسینیائی
-Tortonian	Tortonian	Tortonium	托爾頓期	Tortona	Tortoniense ٹورٹونیائی
-Serravallian	Serravallian	Serravallium	塞拉瓦爾期	Serravalle	Serravalliense  سیراوالیائی
-Langhian	Langhian	Langhium	蘭蓋期	Langhe	Langhiense  لنگیائی
-Burdigalian	Burdigalian	Burdigalium	波爾多期	Burdigala	Burdigaliense برڈیگلیائی
-Aquitanian	Aquitanian	Aquitanium	阿基坦期	Aquitain	Aquitaniense  آکویٹانیائی
-Paleogene	Paleogene	Paläogen	古近紀	Paleogen	Paleógeno
-Oligocene	Oligocene	Oligozän	漸新世	Oligocen	Oligoceno
-Chattian	Chattian	Chattium	恰特期	Chatt	Chattiense  چیتھیائی
-Rupelian	Rupelian	Rupelium	魯培爾期	Rupel	Rupeliense  روپیلیائی
-Eocene	Eocene	Eozän	始新世	Eocen	Eoceno 
-Priabonian	Priabonian	Priabonium	普里阿邦期	Priabona	Priaboniense پریابونیائی
-Bartonian	Bartonian	Bartonium	巴爾頓期	Barton	Bartoniense بارٹونیائی
-Lutetian	Lutetian	Lutetium	盧台特期	Lutetia	Luteciense  لُٹیٹیائی
-Ypresian	Ypresian	Ypresium	伊普雷斯期	Ypres	Ypresiense  ایپریسیائی
-Paleocene	Paleocene	Paläozän	古新世	Paleocen	Paleoceno
-Thanetian	Thanetian	Thanetium	贊尼特期	Thanet	Thanetiense تھینیٹیائی
-Selandian	Selandian	Seelandium	塞蘭特期	Sjælland	Selandiense سیلینڈیائی
-Danian	Danian	Danium	達寧期	Dan	Daniense  ڈانیائی
-Mesozoic	Mesozoic	Mesozoikum	中生代	Mesozoikum	Mesozoico
-Cretaceous	Cretaceous	Kreide	白堊紀	Kritt	Cretácico
-Late_Cretaceous	Late Cretaceous	Oberkreide	晚白堊世	Øvre kritt	Cretácico Tardío
-Maastrichtian	Maastrichtian	Maastrichtium	馬斯垂克期	Maastricht	Maastrichtiense
-Campanian	Campanian	Campanium	坎帕期	Campan	Campaniense کیمپیائی
-Santonian	Santonian	Santonium	桑托期	Santon	Santoniense سینتونیائی
-Coniacian	Coniacian	Coniacium	科尼亞克期	Coniac	Coniacense  کونیاشیائی
-Turonian	Turonian	Turonium	土侖期	Turon	Turoniense  ٹرونیائی
-Cenomanian	Cenomanian	Cenomanium	森諾曼期	Cenoman	Cenomaniense  سینومانیائی
-Early_Cretaceous	Early Cretaceous	Unterkreide	早白堊世	Undre kritt	Cretácico Temprano
-Albian	Albian	Albium	阿爾布期	Alba	Albiense  آلبیائی
-Aptian	Aptian	Aptium	阿普第期	Apt	Aptiense  آپٹیائی
-Barremian	Barremian	Barremium	巴列姆期	Barrem	Barremiense باریمینیائی
-Hauterivian	Hauterivian	Hauterivium	豪特里維期	Hauteriv	Hauteriviense ہاؤٹریویائی
-Valanginian	Valanginian	Valanginium	凡藍今期	Valangin	Valanginiense والانگینیائی
-Berriasian	Berriasian	Berriasium	貝里亞期	Berrias	Berriasiense  بیریاشیائی
-Jurassic	Jurassic	Jura	侏羅紀	Jura	Jurásico
-Late_Jurassic	Late Jurassic	Oberjura	晚侏羅世	Øvre jura	Jurásico Tardío
-Tithonian	Tithonian	Tithonium	提通期	Tithon	Titoniense  ٹیتھونیائی
-Kimmeridgian	Kimmeridgian	Kimmeridgium	啟莫里期	Kimmeridge	Kimmeridgiense  کِمریجیائی
-Oxfordian	Oxfordian	Oxfordium	牛津期	Oxford	Oxfordiense آکسفرڈیائی
-Middle_Jurassic	Middle Jurassic	Mitteljura	中侏羅世	Midtre jura	Jurásico Medio
-Callovian	Callovian	Callovium	卡洛維期	Callov	Calloviense کیلوویائی
-Bathonian	Bathonian	Bathonium	巴通期	Bathon	Bathoniense بیتھونیائی
-Bajocian	Bajocian	Bajocium	巴柔期	Bajoc	Bajociense  باجوشیائی
-Aalenian	Aalenian	Aalenium	阿連期	Aalen	Aaleniense  آلینیائی
-Early_Jurassic	Early Jurassic	Unterjura	早侏羅世	Undre jura	Jurásico Temprano
-Toarcian	Toarcian	Toarcium	托阿爾期	Toarc	Toarciense  ٹوارشیائی
-Pliensbachian	Pliensbachian	Pliensbachium	普連斯巴奇期	Pliensbach	Pliensbachiense پلینسباکیائی
-Sinemurian	Sinemurian	Sinemurium	錫內穆期	Sinemur	Sinemuriense  سِنیموریائی
-Hettangian	Hettangian	Hettangium	海塔其期	Hettang	Hettangiense  ہیتھانگیائی
-Triassic	Triassic	Trias	三疊紀	Trias	Triásico  ٹرایاسِک
-Late_Triassic	Late Triassic	Obertrias	晚三疊世	Øvre trias	Triásico Tardío
-Rhaetian	Rhaetian	Rhaetium	瑞替期	Ræt	Rhaetiense  رہِشیائی
-Norian	Norian	Norium	諾利期	Nor	Noriense  نوریائی
-Carnian	Carnian	Karnium	卡尼期	Karn	Carniense کارنیائی
-Middle_Triassic	Middle Triassic	Mitteltrias	中三疊世	Midtre trias	Triásico Medio
-Ladinian	Ladinian	Ladinium	拉丁尼期	Ladin	Ladiniense  لیڈینیائی
-Anisian	Anisian	Anisium	安尼西期	Anis	Anisiense انیسیائی
-Early_Triassic	Early Triassic	Untertrias	早三疊世	Undre trias	Triásico Temprano
-Olenekian	Olenekian	Olenekium	奧倫尼剋期	Olenek	Olenekiense آلینکیائی
-Induan	Induan	Indusium	印度期	Indus	Induense  ایندوائی
-Paleozoic	Paleozoic	Paläozoikum	古生代	Paleozoikum	Paleozoico
-Permian	Permian	Perm	二疊紀	Perm	Pérmico
-Lopingian	Lopingian	Lopingium	樂平世	Loping	Lopingiense لوپنگیائی
-Changhsingian	Changhsingian	Changhsingium	長興期	Changxing	Changhsingiense چینگسِنگیائی
-Wuchiapingian	Wuchiapingian	Wuchiapingium	吳家坪期	Wujiaping	Wuchiapingiense وچیاپِنگیائی
-Guadalupian	Guadalupian	Guadalupium	瓜德魯普世	Guadalup	Guadalupiense گواڈولوپیائی
-Capitanian	Capitanian	Capitanium	卡匹敦階	Capitan	Capitaniense  کاپِٹانیائی
-Wordian	Wordian	Wordium	沃德期	Word	Wordiense ورڈیائی
-Roadian	Roadian	Roadium	羅德期	Road	Roadiense روڈیائی
-Cisuralian	Cisuralian	Cisuralium	烏拉爾世	Cisural	Cisuraliense سِسورالیائی
-Kungurian	Kungurian	Kungurium	空谷爾期	Kungur	Kunguriense کُنگُریائی
-Artinskian	Artinskian	Artinskium	阿爾丁斯剋期	Artinsk	Artinskiense آرٹِنسکیائی
-Sakmarian	Sakmarian	Sakmarium	薩克馬爾期	Sakmara	Sakmariense سکماریائی
-Asselian	Asselian	Asselium	阿瑟爾期	Assel	Asseliense  اسیلیائی
-Carboniferous	Carboniferous	Karbon	石炭紀	Karbon	Carbonífero
-Pennsylvanian	Pennsylvanian	Pennsylvanium	賓夕法尼亞世	Pennsylvania	Pensilvánico
-Gzhelian	Gzhelian	Gzhelium	格舍爾期	Gzhel	Gzheliense  جیلیائی
-Kasimovian	Kasimovian	Kasimovium	卡西莫夫期	Kasimov	Kasimoviense کسیموویائی
-Moscovian	Moscovian	Moskovium	莫斯科期	Moskva	Moscoviense موسکووائی
-Bashkirian	Bashkirian	Bashkirium	巴什基爾期	Basjkir	Bashkiriense بیشکیریائی
-Mississippian	Mississippian	Mississippium	密西西比世	Mississippi	Misisípico مِسِسِپیائی
-Serpukhovian	Serpukhovian	Serpukhovium	謝爾普霍夫期	Serpukhov	Serpukhoviense  سرپُکوویائی
-Visean	Viséan	Viséum	維憲期	Visé	Viseense  وِسیائی
-Tournaisian	Tournaisian	Tournaisium	圖爾奈期	Tournai	Tournaisiense ٹرنَیسیائی
-Devonian	Devonian	Devon	泥盆紀	Devon	Devónico
-Late_Devonian	Late Devonian	Oberdevon	晚泥盆世	Øvre devon	Devónico Tardío
-Famennian	Famennian	Famennium	法門期	Famenn	Fameniense  فیمینیائی
-Frasnian	Frasnian	Frasnium	弗拉斯期	Frasne	Frasniense  فریسنیائی
-Middle_Devonian	Middle Devonian	Mitteldevon	中泥盆世	Midtre devon	Devónico Medio
-Givetian	Givetian	Givetium	吉維特期	Givet	Givetiense  گیویٹیائی
-Eifelian	Eifelian	Eifelium	艾菲爾期	Eifel	Eifeliense آئفلیائی
-Early_Devonian	Early Devonian	Unterdevon	早泥盆世	Undre devon	Devónico Temprano
-Emsian	Emsian	Emsium	埃姆斯期	Ems	Emsiense ایسمیائی
-Pragian	Pragian	Pragium	布拉格期	Praha	Pragiense پراگیائی
-Lochkovian	Lochkovian	Lochkovium	洛赫科夫期	Lochkov	Lochkoviense لوکوویائی
-Silurian	Silurian	Silur	志留紀	Silur	Silúrico سِلوریائی
-Pridoli	Pridoli	Pridolium	普里道利世	Pridoli	Prídoli پرِڈولیائی
-Ludlow	Ludlow	Ludlow	羅德洛世	Ludlow	Ludlow لڈلو
-Ludfordian	Ludfordian	Ludfordium	盧德福德期	Ludford	Ludfordiense لُڈفورڈیائی
-Gorstian	Gorstian	Gorstium	戈斯特期	Gorsty	Gorstiense گورسٹیائی
-Wenlock	Wenlock	Wenlock	文洛克世	Wenlock	Wenlock وینلوک
-Homerian	Homerian	Homerium	侯默期	Homer	Homeriense ہومیریائی
-Sheinwoodian	Sheinwoodian	Sheinwoodium	申伍德期	Sheinwood	Sheinwoodiense شینووڈیائی
-Llandovery	Llandovery	Llandovery	蘭多維利世	Llandovery	Llandovery لینڈوورائی
-Telychian	Telychian	Telychium	特列奇期	Telych	Telychiense ٹیلیکیائی
-Aeronian	Aeronian	Aeronium	愛隆期	Aeron	Aeroniense  آیرونیائی
-Rhuddanian	Rhuddanian	Rhuddanium	魯丹期	Rhuddan	Rhudaniense رڈنیائی
-Ordovician	Ordovician	Ordovizium	奧陶紀	Ordovicium	Ordovícico آرڈوویشیان
-Late_Ordovician	Late Ordovician	Oberordovizium	晚奧陶世	Øvre ordovicium	Ordovícico Tardío
-Hirnantian	Hirnantian	Hirnantium	赫南特期	Hirnant	Hirnantiense ہرنانٹیائی
-Katian	Katian	Katium	凱迪期	Katy	Katiense  کیٹیائی
-Sandbian	Sandbian	Sandbium	桑比期	Sandby	Sandbiense سانڈبیائی
-Middle_Ordovician	Middle Ordovician	Mittelordovizium	中奧陶世	Midtre ordovicium	Ordovício Medio
-Darriwilian	Darriwilian	Darriwilium	達瑞威爾期	Darriwil	Darriwiliense ڈارویلیائی
-Dapingian	Dapingian	Dapingium	大坪期	Daping	Dapingiense ڈاپِنگیان
-Early_Ordovician	Early Ordovician	Unterordovizium	早奧陶世	Undre ordovicium	Ordovícico Temprano
-Floian	Floian	Floium	弗洛期	Flo	Floiense  فلوئیائی
-Tremadocian	Tremadocian	Tremadocium	特馬豆剋期	Tremadoc	Tremadociense ٹریمڈوسیائی
-Cambrian	Cambrian	Kambrium	寒武紀	Kambrium	Cámbrico کیمبریان
-Furongian	Furongian	Furongium	芙蓉世	Furong	Furongiense فُرونگیائی
-Stage_10	Stage 10	10. Stufe	第十期	Etasje 10	Edad 10
-Jiangshanian	Jiangshanian	Jiangshanium	江山期	Jiangshan	Jiangshaniense جیانگشینیائی
-Paibian	Paibian	Paibium	排碧期	Paibi	Paibiense پائیبیائی
-Series_3	Miaolingian	Miaolingium	第三世	Serie 3	Miaolingiense
-Guzhangian	Guzhangian	Guzhangium	古丈期	Guzhang	Guzhangiense گُجانگیائی
-Drumian	Drumian	Drumium	鼓山期	Drum	Drumiense ڈرمیائی
-Stage_5	Wuliuan	Wuliuum	第五期	Etasje 5	Wuliuense
-Series_2	Series 2	2. Serie	第二世	Serie 2	Época 2
-Stage_4	Stage 4	4. Stufe	第四期	Etasje 4	Edad 4
-Stage_3	Stage 3	3. Stufe	第三期	Etasje 3	Edad 3
-Terreneuvian	Terreneuvian	Terreneuvium	紐芬蘭世	Terreneuv	Terreneuviense  ٹیرنوویائی
-Stage_2	Stage 2	2. Stufe	第二期	Etasje 2	Edad 2
-Fortunian	Fortunian	Fortunium	幸運期	Fortune	Fortuniense فورٹونیائی
-Precambrian	Precambrian	Präkambrium	前寒武紀	Prekambrium	Precámbrico
-Proterozoic	Proterozoic	Proterozoikum	元古宙	Proterozoikum	Proterozoico
-Neoproterozoic	Neoproterozoic	Neoproterozoikum	新元古代	Neoproterozoikum	Neoproterozoico
-Ediacaran	Ediacaran	Ediacarium	埃迪卡拉紀	Ediacara	Ediacárico  ایڈیاکرن
-Cryogenian	Cryogenian	Cryogenium	成冰紀	Kryogen	Criogénico  کرایوجینیائی
-Tonian	Tonian	Tonium	拉伸紀	Ton	Tónico ٹونیان
-Mesoproterozoic	Mesoproterozoic	Mesoproterozoikum	中元古代	Mesoproterozoikum	Mesoproterozoico
-Stenian	Stenian	Stenium	狹帶紀	Sten	Esténico سٹینیان
-Ectasian	Ectasian	Ectasium	延展紀	Ektas	Ectásico ایکسٹیشیان
-Calymmian	Calymmian	Calymmium	蓋層紀	Kalym	Calímico کلیمیائی
-Paleoproterozoic	Paleoproterozoic	Paläoproterozoikum	古元古代	Paleoproterozoikum	Paleoproterozoico
-Statherian	Statherian	Statherium	固結紀	Stather	Estatérico سٹراتھیریان
-Orosirian	Orosirian	Orosirium	造山紀	Orosir	Orosírico اوروسیریان
-Rhyacian	Rhyacian	Rhyacium	層侵紀	Ryax	Riásico رائیشیان
-Siderian	Siderian	Siderium	成鐵紀	Sider	Sidérico  سائیڈیریان
-Archean	Archean	Archaikum	太古宙	Arkeikum	Arcaico آرکیان
-Neoarchean	Neoarchean	Neoarchaikum	新太古代	Neoarkeikum	Neoarcaico
-Mesoarchean	Mesoarchean	Mesoarchaikum	中太古代	Mesoarkeikum	Mesoarcaico
-Paleoarchean	Paleoarchean	Paläoarchaikum	古太古代	Paleoarkeikum	Paleoarcaico
-Eoarchean	Eoarchean	Eoarchaikum	始太古代	Eoarkeikum	Eoarcaico
-Hadean	Hadean	Hadaikum	冥古宙	Hadeikum	Hádico  ہیڈیان
-head_supereon	 	 	 	 	 
-head_eon	Eonothem	Äonothem	宇	Eon	Eón
-head_era	Erathem	Ärathem	界	Æra	Era
-head_period	System	System	系	Periode	Periodo
-head_epoch	Series	Serie	統	Epoke	Época
-head_age	Stage	Stufe	階	Alder	Edad
+root	root	root	root	root	root	root	root
+n_a	 	 	 	 	 	 	 
+Phanerozoic	Phanerozoic	Phanerozoikum	顯生宙	Fanerozoikum	Fanerozoico	بھوگربھک	ਭੂ-ਗਰਭਕ
+Cenozoic	Cenozoic	Känozoikum	新生代	Kenozoikum	Cenozoico	نوجیو	ਨਵਜੀਵ
+Quaternary	Quaternary	Quartär	第四紀	Kvartær	Cuaternario	چَوتھا	ਚੌਥਾ
+Holocene	Holocene	Holozän	全新世	Holocen	Holoceno	ابھنو	ਅਭਿਨਵ
+Meghalayan	Meghalayan	Meghalayum	梅加拉亞期	Meghalaya	Megalayense	میگھالیا	ਮੇਘਾਲਿਆ
+Northgrippian	Northgrippian	Northgrippium	諾斯格瑞比期	Nordgrip	Norgripiense	نورتھگرِپیائی	ਨੋਰਥਗਰਿਪਿਆਨ
+Greenlandian	Greenlandian	Grönlandium	格陵蘭期	Grønland	Groenlandiense	گرینلانڈیائی	ਗਰੀਨਲੈਂਡੀਆਈ
+Pleistocene	Pleistocene	Pleistozän	更新世	Pleistocen	Pleistoceno	Pleistocene	Pleistocene
+Late_Pleistocene	Late Pleistocene	Altpleistozän	晚更新期	Øvre pleistocen	Tarantiense	Late Pleistocene	Late Pleistocene
+Middle_Pleistocene	Chibanian	Mittelpleistozän	中更新期	Midtre pleistocen	Chibaniense	Chibanian	Chibanian
+Calabrian	Calabrian	Calabrium	卡拉布里亞階	Calabria	Calabriense	کالابریائی	Calabrian
+Gelasian	Gelasian	Gelasium	格拉斯期	Gela	Gelasiense	گیلاسیائی	Gelasian
+Neogene	Neogene	Neogen	新近紀	Neogen	Neógeno	Neogene	Neogene
+Pliocene	Pliocene	Pliozän	上新世	Pliocen	Plioceno	Pliocene	Pliocene
+Piacenzian	Piacenzian	Piacenzium	皮亞琴期	Piacenza	Piacenziense	پیاسینزیائی	Piacenzian
+Zanclean	Zanclean	Zancleum	贊克爾期	Zancle	Zancliense	زینکلیائی	Zanclean
+Miocene	Miocene	Miozän	中新世	Miocen	Mioceno	Miocene	Miocene
+Messinian	Messinian	Messinium	墨西拿期	Messina	Messiniense	میسینیائی	Messinian
+Tortonian	Tortonian	Tortonium	托爾頓期	Tortona	Tortoniense	ٹورٹونیائی	Tortonian
+Serravallian	Serravallian	Serravallium	塞拉瓦爾期	Serravalle	Serravalliense	سیراوالیائی	Serravallian
+Langhian	Langhian	Langhium	蘭蓋期	Langhe	Langhiense	لنگیائی	Langhian
+Burdigalian	Burdigalian	Burdigalium	波爾多期	Burdigala	Burdigaliense	برڈیگلیائی	Burdigalian
+Aquitanian	Aquitanian	Aquitanium	阿基坦期	Aquitain	Aquitaniense	آکویٹانیائی	Aquitanian
+Paleogene	Paleogene	Paläogen	古近紀	Paleogen	Paleógeno	Paleogene	Paleogene
+Oligocene	Oligocene	Oligozän	漸新世	Oligocen	Oligoceno	Oligocene	Oligocene
+Chattian	Chattian	Chattium	恰特期	Chatt	Chattiense	چیتھیائی	Chattian
+Rupelian	Rupelian	Rupelium	魯培爾期	Rupel	Rupeliense	روپیلیائی	Rupelian
+Eocene	Eocene	Eozän	始新世	Eocen	Eoceno	Eocene	Eocene
+Priabonian	Priabonian	Priabonium	普里阿邦期	Priabona	Priaboniense	پریابونیائی	Priabonian
+Bartonian	Bartonian	Bartonium	巴爾頓期	Barton	Bartoniense	بارٹونیائی	Bartonian
+Lutetian	Lutetian	Lutetium	盧台特期	Lutetia	Luteciense	لُٹیٹیائی	Lutetian
+Ypresian	Ypresian	Ypresium	伊普雷斯期	Ypres	Ypresiense	ایپریسیائی	Ypresian
+Paleocene	Paleocene	Paläozän	古新世	Paleocen	Paleoceno	Paleocene	Paleocene
+Thanetian	Thanetian	Thanetium	贊尼特期	Thanet	Thanetiense	تھینیٹیائی	Thanetian
+Selandian	Selandian	Seelandium	塞蘭特期	Sjælland	Selandiense	سیلینڈیائی	Selandian
+Danian	Danian	Danium	達寧期	Dan	Daniense	ڈانیائی	Danian
+Mesozoic	Mesozoic	Mesozoikum	中生代	Mesozoikum	Mesozoico	Mesozoic	Mesozoic
+Cretaceous	Cretaceous	Kreide	白堊紀	Kritt	Cretácico	Cretaceous	Cretaceous
+Late_Cretaceous	Late Cretaceous	Oberkreide	晚白堊世	Øvre kritt	Cretácico Tardío	Late Cretaceous	Late Cretaceous
+Maastrichtian	Maastrichtian	Maastrichtium	馬斯垂克期	Maastricht	Maastrichtiense	Maastrichtian	Maastrichtian
+Campanian	Campanian	Campanium	坎帕期	Campan	Campaniense	کیمپیائی	Campanian
+Santonian	Santonian	Santonium	桑托期	Santon	Santoniense	سینتونیائی	Santonian
+Coniacian	Coniacian	Coniacium	科尼亞克期	Coniac	Coniacense	کونیاشیائی	Coniacian
+Turonian	Turonian	Turonium	土侖期	Turon	Turoniense	ٹرونیائی	Turonian
+Cenomanian	Cenomanian	Cenomanium	森諾曼期	Cenoman	Cenomaniense	سینومانیائی	Cenomanian
+Early_Cretaceous	Early Cretaceous	Unterkreide	早白堊世	Undre kritt	Cretácico Temprano	Early Cretaceous	Early Cretaceous
+Albian	Albian	Albium	阿爾布期	Alba	Albiense	آلبیائی	Albian
+Aptian	Aptian	Aptium	阿普第期	Apt	Aptiense	آپٹیائی	Aptian
+Barremian	Barremian	Barremium	巴列姆期	Barrem	Barremiense	باریمینیائی	Barremian
+Hauterivian	Hauterivian	Hauterivium	豪特里維期	Hauteriv	Hauteriviense	ہاؤٹریویائی	Hauterivian
+Valanginian	Valanginian	Valanginium	凡藍今期	Valangin	Valanginiense	والانگینیائی	Valanginian
+Berriasian	Berriasian	Berriasium	貝里亞期	Berrias	Berriasiense	بیریاشیائی	Berriasian
+Jurassic	Jurassic	Jura	侏羅紀	Jura	Jurásico	Jurassic	Jurassic
+Late_Jurassic	Late Jurassic	Oberjura	晚侏羅世	Øvre jura	Jurásico Tardío	Late Jurassic	Late Jurassic
+Tithonian	Tithonian	Tithonium	提通期	Tithon	Titoniense	ٹیتھونیائی	Tithonian
+Kimmeridgian	Kimmeridgian	Kimmeridgium	啟莫里期	Kimmeridge	Kimmeridgiense	کِمریجیائی	Kimmeridgian
+Oxfordian	Oxfordian	Oxfordium	牛津期	Oxford	Oxfordiense	آکسفرڈیائی	Oxfordian
+Middle_Jurassic	Middle Jurassic	Mitteljura	中侏羅世	Midtre jura	Jurásico Medio	Middle Jurassic	Middle Jurassic
+Callovian	Callovian	Callovium	卡洛維期	Callov	Calloviense	کیلوویائی	Callovian
+Bathonian	Bathonian	Bathonium	巴通期	Bathon	Bathoniense	بیتھونیائی	Bathonian
+Bajocian	Bajocian	Bajocium	巴柔期	Bajoc	Bajociense	باجوشیائی	Bajocian
+Aalenian	Aalenian	Aalenium	阿連期	Aalen	Aaleniense	آلینیائی	Aalenian
+Early_Jurassic	Early Jurassic	Unterjura	早侏羅世	Undre jura	Jurásico Temprano	Early Jurassic	Early Jurassic
+Toarcian	Toarcian	Toarcium	托阿爾期	Toarc	Toarciense	ٹوارشیائی	Toarcian
+Pliensbachian	Pliensbachian	Pliensbachium	普連斯巴奇期	Pliensbach	Pliensbachiense	پلینسباکیائی	Pliensbachian
+Sinemurian	Sinemurian	Sinemurium	錫內穆期	Sinemur	Sinemuriense	سِنیموریائی	Sinemurian
+Hettangian	Hettangian	Hettangium	海塔其期	Hettang	Hettangiense	ہیتھانگیائی	Hettangian
+Triassic	Triassic	Trias	三疊紀	Trias	Triásico	ٹرایاسِک	Triassic
+Late_Triassic	Late Triassic	Obertrias	晚三疊世	Øvre trias	Triásico Tardío	Late Triassic	Late Triassic
+Rhaetian	Rhaetian	Rhaetium	瑞替期	Ræt	Rhaetiense	رہِشیائی	Rhaetian
+Norian	Norian	Norium	諾利期	Nor	Noriense	نوریائی	Norian
+Carnian	Carnian	Karnium	卡尼期	Karn	Carniense	کارنیائی	Carnian
+Middle_Triassic	Middle Triassic	Mitteltrias	中三疊世	Midtre trias	Triásico Medio	Middle Triassic	Middle Triassic
+Ladinian	Ladinian	Ladinium	拉丁尼期	Ladin	Ladiniense	لیڈینیائی	Ladinian
+Anisian	Anisian	Anisium	安尼西期	Anis	Anisiense	انیسیائی	Anisian
+Early_Triassic	Early Triassic	Untertrias	早三疊世	Undre trias	Triásico	Temprano	Early Triassic
+Olenekian	Olenekian	Olenekium	奧倫尼剋期	Olenek	Olenekiense	آلینکیائی	Olenekian
+Induan	Induan	Indusium	印度期	Indus	Induense	ایندوائی	Induan
+Paleozoic	Paleozoic	Paläozoikum	古生代	Paleozoikum	Paleozoico	Paleozoic	Paleozoic
+Permian	Permian	Perm	二疊紀	Perm	Pérmico	Permian	Permian
+Lopingian	Lopingian	Lopingium	樂平世	Loping	Lopingiense	لوپنگیائی	Lopingian
+Changhsingian	Changhsingian	Changhsingium	長興期	Changxing	Changhsingiense	چینگسِنگیائی	Changhsingian
+Wuchiapingian	Wuchiapingian	Wuchiapingium	吳家坪期	Wujiaping	Wuchiapingiense	وچیاپِنگیائی	Wuchiapingian
+Guadalupian	Guadalupian	Guadalupium	瓜德魯普世	Guadalup	Guadalupiense	گواڈولوپیائی	Guadalupian
+Capitanian	Capitanian	Capitanium	卡匹敦階	Capitan	Capitaniense	کاپِٹانیائی	Capitanian
+Wordian	Wordian	Wordium	沃德期	Word	Wordiense	ورڈیائی	Wordian
+Roadian	Roadian	Roadium	羅德期	Road	Roadiense	روڈیائی	Roadian
+Cisuralian	Cisuralian	Cisuralium	烏拉爾世	Cisural	Cisuraliense	سِسورالیائی	Cisuralian
+Kungurian	Kungurian	Kungurium	空谷爾期	Kungur	Kunguriense	کُنگُریائی	Kungurian
+Artinskian	Artinskian	Artinskium	阿爾丁斯剋期	Artinsk	Artinskiense	آرٹِنسکیائی	Artinskian
+Sakmarian	Sakmarian	Sakmarium	薩克馬爾期	Sakmara	Sakmariense	سکماریائی	Sakmarian
+Asselian	Asselian	Asselium	阿瑟爾期	Assel	Asseliense	اسیلیائی	Asselian
+Carboniferous	Carboniferous	Karbon	石炭紀	Karbon	Carbonífero	Carboniferous	Carboniferous
+Pennsylvanian	Pennsylvanian	Pennsylvanium	賓夕法尼亞世	Pennsylvania	Pensilvánico	Pennsylvanian	Pennsylvanian
+Gzhelian	Gzhelian	Gzhelium	格舍爾期	Gzhel	Gzheliense	جیلیائی	Gzhelian
+Kasimovian	Kasimovian	Kasimovium	卡西莫夫期	Kasimov	Kasimoviense	کسیموویائی	Kasimovian
+Moscovian	Moscovian	Moskovium	莫斯科期	Moskva	Moscoviense	موسکووائی	Moscovian
+Bashkirian	Bashkirian	Bashkirium	巴什基爾期	Basjkir	Bashkiriense	بیشکیریائی	Bashkirian
+Mississippian	Mississippian	Mississippium	密西西比世	Mississippi	Misisípico	مِسِسِپیائی	Mississippian
+Serpukhovian	Serpukhovian	Serpukhovium	謝爾普霍夫期	Serpukhov	Serpukhoviense	سرپُکوویائی	Serpukhovian
+Visean	Viséan	Viséum	維憲期	Visé	Viseense	وِسیائی	Viséan
+Tournaisian	Tournaisian	Tournaisium	圖爾奈期	Tournai	Tournaisiense	ٹرنَیسیائی	Tournaisian
+Devonian	Devonian	Devon	泥盆紀	Devon	Devónico	Devonian	Devonian
+Late_Devonian	Late Devonian	Oberdevon	晚泥盆世	Øvre devon	Devónico Tardío	Late Devonian	Late Devonian
+Famennian	Famennian	Famennium	法門期	Famenn	Fameniense	فیمینیائی	Famennian
+Frasnian	Frasnian	Frasnium	弗拉斯期	Frasne	Frasniense	فریسنیائی	Frasnian
+Middle_Devonian	Middle Devonian	Mitteldevon	中泥盆世	Midtre devon	Devónico Medio	Middle Devonian	Middle Devonian
+Givetian	Givetian	Givetium	吉維特期	Givet	Givetiense	گیویٹیائی	Givetian
+Eifelian	Eifelian	Eifelium	艾菲爾期	Eifel	Eifeliense	آئفلیائی	Eifelian
+Early_Devonian	Early Devonian	Unterdevon	早泥盆世	Undre devon	Devónico	Temprano	Early Devonian
+Emsian	Emsian	Emsium	埃姆斯期	Ems	Emsiense	ایسمیائی	Emsian
+Pragian	Pragian	Pragium	布拉格期	Praha	Pragiense	پراگیائی	Pragian
+Lochkovian	Lochkovian	Lochkovium	洛赫科夫期	Lochkov	Lochkoviense	لوکوویائی	Lochkovian
+Silurian	Silurian	Silur	志留紀	Silur	Silúrico	سِلوریائی	Silurian
+Pridoli	Pridoli	Pridolium	普里道利世	Pridoli	Prídoli	پرِڈولیائی	Pridoli
+Ludlow	Ludlow	Ludlow	羅德洛世	Ludlow	Ludlow	لڈلو	Ludlow
+Ludfordian	Ludfordian	Ludfordium	盧德福德期	Ludford	Ludfordiense	لُڈفورڈیائی	Ludfordian
+Gorstian	Gorstian	Gorstium	戈斯特期	Gorsty	Gorstiense	گورسٹیائی	Gorstian
+Wenlock	Wenlock	Wenlock	文洛克世	Wenlock	Wenlock	وینلوک	Wenlock
+Homerian	Homerian	Homerium	侯默期	Homer	Homeriense	ہومیریائی	Homerian
+Sheinwoodian	Sheinwoodian	Sheinwoodium	申伍德期	Sheinwood	Sheinwoodiense	شینووڈیائی	Sheinwoodian
+Llandovery	Llandovery	Llandovery	蘭多維利世	Llandovery	Llandovery	لینڈوورائی	Llandovery
+Telychian	Telychian	Telychium	特列奇期	Telych	Telychiense	ٹیلیکیائی	Telychian
+Aeronian	Aeronian	Aeronium	愛隆期	Aeron	Aeroniense	آیرونیائی	Aeronian
+Rhuddanian	Rhuddanian	Rhuddanium	魯丹期	Rhuddan	Rhudaniense	رڈنیائی	Rhuddanian
+Ordovician	Ordovician	Ordovizium	奧陶紀	Ordovicium	Ordovícico	آرڈوویشیان	Ordovician
+Late_Ordovician	Late Ordovician	Oberordovizium	晚奧陶世	Øvre ordovicium	Ordovícico Tardío	Late Ordovician	Late Ordovician
+Hirnantian	Hirnantian	Hirnantium	赫南特期	Hirnant	Hirnantiense	ہرنانٹیائی	Hirnantian
+Katian	Katian	Katium	凱迪期	Katy	Katiense	کیٹیائی	Katian
+Sandbian	Sandbian	Sandbium	桑比期	Sandby	Sandbiense	سانڈبیائی	Sandbian
+Middle_Ordovician	Middle Ordovician	Mittelordovizium	中奧陶世	Midtre ordovicium	Ordovício Medio	Middle Ordovician	Middle Ordovician
+Darriwilian	Darriwilian	Darriwilium	達瑞威爾期	Darriwil	Darriwiliense	ڈارویلیائی	Darriwilian
+Dapingian	Dapingian	Dapingium	大坪期	Daping	Dapingiense	ڈاپِنگیان	Dapingian
+Early_Ordovician	Early Ordovician	Unterordovizium	早奧陶世	Undre ordovicium	Ordovícico Temprano	Early Ordovician	Early Ordovician
+Floian	Floian	Floium	弗洛期	Flo	Floiense	فلوئیائی	Floian
+Tremadocian	Tremadocian	Tremadocium	特馬豆剋期	Tremadoc	Tremadociense	ٹریمڈوسیائی	Tremadocian
+Cambrian	Cambrian	Kambrium	寒武紀	Kambrium	Cámbrico	کیمبریان	Cambrian
+Furongian	Furongian	Furongium	芙蓉世	Furong	Furongiense	فُرونگیائی	Furongian
+Stage_10	Stage 10	10. Stufe	第十期	Etasje 10	Edad 10	Stage 10	Stage 10
+Jiangshanian	Jiangshanian	Jiangshanium	江山期	Jiangshan	Jiangshaniense	جیانگشینیائی	Jiangshanian
+Paibian	Paibian	Paibium	排碧期	Paibi	Paibiense	پائیبیائی	Paibian
+Series_3	Miaolingian	Miaolingium	第三世	Serie 3	Miaolingiense	Miaolingian	Miaolingian
+Guzhangian	Guzhangian	Guzhangium	古丈期	Guzhang	Guzhangiense	گُجانگیائی	Guzhangian
+Drumian	Drumian	Drumium	鼓山期	Drum	Drumiense	ڈرمیائی	Drumian
+Stage_5	Wuliuan	Wuliuum	第五期	Etasje 5	Wuliuense	Wuliuan	Wuliuan
+Series_2	Series 2	2. Serie	第二世	Serie 2	Época 2	Series 2	Series 2
+Stage_4	Stage 4	4. Stufe	第四期	Etasje 4	Edad 4	Stage 4	Stage 4
+Stage_3	Stage 3	3. Stufe	第三期	Etasje 3	Edad 3	Stage 3	Stage 3
+Terreneuvian	Terreneuvian	Terreneuvium	紐芬蘭世	Terreneuv	Terreneuviense	ٹیرنوویائی	Terreneuvian
+Stage_2	Stage 2	2. Stufe	第二期	Etasje 2	Edad 2	Stage 2	Stage 2
+Fortunian	Fortunian	Fortunium	幸運期	Fortune	Fortuniense	فورٹونیائی	Fortunian
+Precambrian	Precambrian	Präkambrium	前寒武紀	Prekambrium	Precámbrico	Precambrian	Precambrian
+Proterozoic	Proterozoic	Proterozoikum	元古宙	Proterozoikum	Proterozoico	Proterozoic	Proterozoic
+Neoproterozoic	Neoproterozoic	Neoproterozoikum	新元古代	Neoproterozoikum	Neoproterozoico	Neoproterozoic	Neoproterozoic
+Ediacaran	Ediacaran	Ediacarium	埃迪卡拉紀	Ediacara	Ediacárico	ایڈیاکرن	Ediacaran
+Cryogenian	Cryogenian	Cryogenium	成冰紀	Kryogen	Criogénico	کرایوجینیائی	Cryogenian
+Tonian	Tonian	Tonium	拉伸紀	Ton	Tónico	ٹونیان	Tonian
+Mesoproterozoic	Mesoproterozoic	Mesoproterozoikum	中元古代	Mesoproterozoikum	Mesoproterozoico	Mesoproterozoic	Mesoproterozoic
+Stenian	Stenian	Stenium	狹帶紀	Sten	Esténico	سٹینیان	Stenian
+Ectasian	Ectasian	Ectasium	延展紀	Ektas	Ectásico	ایکسٹیشیان	Ectasian
+Calymmian	Calymmian	Calymmium	蓋層紀	Kalym	Calímico	کلیمیائی	Calymmian
+Paleoproterozoic	Paleoproterozoic	Paläoproterozoikum	古元古代	Paleoproterozoikum	Paleoproterozoico	Paleoproterozoic	Paleoproterozoic
+Statherian	Statherian	Statherium	固結紀	Stather	Estatérico	سٹراتھیریان	Statherian
+Orosirian	Orosirian	Orosirium	造山紀	Orosir	Orosírico	اوروسیریان	Orosirian
+Rhyacian	Rhyacian	Rhyacium	層侵紀	Ryax	Riásico	رائیشیان	Rhyacian
+Siderian	Siderian	Siderium	成鐵紀	Sider	Sidérico	سائیڈیریان	Siderian
+Archean	Archean	Archaikum	太古宙	Arkeikum	Arcaico	آرکیان	Archean
+Neoarchean	Neoarchean	Neoarchaikum	新太古代	Neoarkeikum	Neoarcaico	Neoarchean	Neoarchean
+Mesoarchean	Mesoarchean	Mesoarchaikum	中太古代	Mesoarkeikum	Mesoarcaico	Mesoarchean	Mesoarchean
+Paleoarchean	Paleoarchean	Paläoarchaikum	古太古代	Paleoarkeikum	Paleoarcaico	Paleoarchean	Paleoarchean
+Eoarchean	Eoarchean	Eoarchaikum	始太古代	Eoarkeikum	Eoarcaico	Eoarchean	Eoarchean
+Hadean	Hadean	Hadaikum	冥古宙	Hadeikum	Hádico	ہیڈیان	Hadean
+head_supereon	 	 	 	 	 	 	 
+head_eon	Eonothem	Äonothem	宇	Eon	Eón	Eonothem	Eonothem
+head_era	Erathem	Ärathem	界	Æra	Era	Erathem	Erathem
+head_period	System	System	系	Periode	Periodo	System	System
+head_epoch	Series	Serie	統	Epoke	Época	Series	Series
+head_age	Stage	Stufe	階	Alder	Edad	Stage	Stage
