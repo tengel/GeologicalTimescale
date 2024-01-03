@@ -9,7 +9,7 @@ import java.util.HashMap;
 public class NamesDb
 {
     // 0:id, 1:en, 2:de, 3:zh 4:nb 5:es
-    private HashMap<String, String[]> m_names = new HashMap<String, String[]>();
+    private final HashMap<String, String[]> m_names = new HashMap<>();
 
     public NamesDb(InputStream namesStream) throws IOException
     {

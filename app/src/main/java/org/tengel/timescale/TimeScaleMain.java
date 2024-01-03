@@ -18,16 +18,14 @@
 package org.tengel.timescale;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.MotionEvent;
-import android.widget.Toast;
 import android.widget.LinearLayout;
-import android.text.Html;
-import java.lang.Runnable;
-import android.content.Intent;
+import android.widget.Toast;
 
 
 public class TimeScaleMain extends Activity
@@ -37,10 +35,10 @@ public class TimeScaleMain extends Activity
     private MenuItem m_itemFitScreen;
     private MenuItem m_itemTrueScale;
 
-    private class TableUpdaterRunnable implements Runnable
+    private static class TableUpdaterRunnable implements Runnable
     {
-        private Activity m_activity;
-        private String   m_nameId;
+        private final Activity m_activity;
+        private final String   m_nameId;
         public TableUpdaterRunnable(Activity activity, String nameId)
         {
             m_activity = activity;
@@ -57,7 +55,7 @@ public class TimeScaleMain extends Activity
                 Table.instance(m_activity).scrollTo(m_nameId);
             }
         }
-    };
+    }
 
 
     @Override
@@ -129,8 +127,7 @@ public class TimeScaleMain extends Activity
         {
             InfoDialog.show(this, null,
                             getString(R.string.help_text).replace(
-                                      "{VERSION}",
-                                      String.valueOf(BuildConfig.VERSION_NAME)));
+                                      "{VERSION}", BuildConfig.VERSION_NAME));
         }
         else if (id == R.id.option_search)
         {

@@ -20,18 +20,17 @@ package org.tengel.timescale;
 import org.w3c.dom.*;
 import javax.xml.parsers.*;
 import java.io.*;
-import org.xml.sax.SAXException;
 import java.lang.*;
 import java.util.*;
 
 
 public class TreeReader
 {
-    private Vector<Vector<GeoPeriod>> m_table;
-    private int                       m_maxColumns = 0;
-    private Element                   m_rootEle;
-    private HashMap<String, Integer>  m_xPos = new HashMap<String, Integer>();
-    private Vector<String>            m_searchData = new Vector<String>();
+    private Vector<Vector<GeoPeriod>>       m_table;
+    private int                             m_maxColumns = 0;
+    private final Element                   m_rootEle;
+    private final HashMap<String, Integer>  m_xPos = new HashMap<>();
+    private final Vector<String>            m_searchData = new Vector<>();
 
 
     public TreeReader(InputStream inStream) throws Exception
@@ -66,16 +65,16 @@ public class TreeReader
         {
             maxDepth = m_maxColumns;
         }
-        m_table = new Vector<Vector<GeoPeriod>>();
+        m_table = new Vector<>();
         for (int i = 0; i < maxDepth; ++i)
         {
-            m_table.add(new Vector<GeoPeriod>());
+            m_table.add(new Vector<>());
         }
         parse(m_rootEle, 0, maxDepth);
     }
 
 
-    private void countColumns(Element ele, int depth) throws Exception
+    private void countColumns(Element ele, int depth)
     {
         if (depth + 1 > m_maxColumns)
         {
@@ -102,7 +101,7 @@ public class TreeReader
     }
 
 
-    private int parse(Element ele, int depth, int maxDepth) throws Exception
+    private int parse(Element ele, int depth, int maxDepth)
     {
         int childCount = 0;
         int rowSum = 0;

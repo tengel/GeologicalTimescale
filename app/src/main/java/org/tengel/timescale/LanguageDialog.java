@@ -10,9 +10,9 @@ import android.content.SharedPreferences;
 public class LanguageDialog
 {
 
-    class Listener implements DialogInterface.OnClickListener
+    static class Listener implements DialogInterface.OnClickListener
     {
-        private Activity m_activity;
+        private final Activity m_activity;
 
         Listener(Activity a)
         {
@@ -42,5 +42,3 @@ public class LanguageDialog
         return builder.create();
     }
 }
-
-

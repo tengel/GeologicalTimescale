@@ -44,28 +44,28 @@ public class Table
 
     private static Table m_instance = null;
 
-    private Activity                  m_activity;
-    private int                       m_minRowHeight;
-    private int                       m_displayColumns  = 4;
-    private TreeReader                m_tree;
-    private boolean                   m_fitScreen       = false;
-    private boolean                   m_trueScale       = false;
-    private int                       m_startColumn     = 1;
-    private int                       m_startRow        = 0;
-    private int                       m_endRow          = 0;
-    private TableLayout               m_table;
-    private int                       m_displayHeight;
-    private ScrollView                m_scrollView;
-    private String                    m_selectedId;
-    private boolean                   m_selectionActive = false;
-    private Vector<AnimationDrawable> m_bgAnimations    = new Vector<AnimationDrawable>();
-    private Handler                   m_aniHandler      = new Handler();
-    private boolean                   m_showExcerpt     = false;
-    private String                    m_excerptName;
-    private HashMap<String, Double>   m_durations       = new HashMap<String, Double>();
-    private int                       m_languageIdx     = 0;
-    private String                    m_systemLang;
-    private NamesDb                   m_namesDb;
+    private Activity                        m_activity;
+    private int                             m_minRowHeight;
+    private int                             m_displayColumns  = 4;
+    private TreeReader                      m_tree;
+    private boolean                         m_fitScreen       = false;
+    private boolean                         m_trueScale       = false;
+    private int                             m_startColumn     = 1;
+    private int                             m_startRow        = 0;
+    private int                             m_endRow          = 0;
+    private TableLayout                     m_table;
+    private int                             m_displayHeight;
+    private ScrollView                      m_scrollView;
+    private String                          m_selectedId;
+    private boolean                         m_selectionActive = false;
+    private final Vector<AnimationDrawable> m_bgAnimations    = new Vector<>();
+    private final Handler                   m_aniHandler      = new Handler();
+    private boolean                         m_showExcerpt     = false;
+    private String                          m_excerptName;
+    private final HashMap<String, Double>   m_durations       = new HashMap<>();
+    private int                             m_languageIdx     = 0;
+    private String                          m_systemLang;
+    private NamesDb                         m_namesDb;
 
 
     private class SelectionAnimationRunnable implements Runnable
@@ -95,7 +95,7 @@ public class Table
 
 
 
-    private class MyLongClickListener implements OnLongClickListener
+    private static class MyLongClickListener implements OnLongClickListener
     {
         public boolean onLongClick(View v)
         {
@@ -503,7 +503,7 @@ public class Table
     }
 
 
-    private String translateName(String id) throws Exception
+    private String translateName(String id)
     {
         int langIdx = m_languageIdx;
         if (m_languageIdx == 0)
@@ -535,7 +535,7 @@ public class Table
 
     private class Scroller implements Runnable
     {
-        private int m_ypos;
+        private final int m_ypos;
         public Scroller(int ypos)
         {
             m_ypos = ypos;
@@ -563,7 +563,7 @@ public class Table
 
     public ContentValues[] getSearchData()
     {
-        Vector<ContentValues> cv = new Vector<ContentValues>();
+        Vector<ContentValues> cv = new Vector<>();
         for (String nameId : m_tree.getSearchData())
         {
             ContentValues v = new ContentValues();

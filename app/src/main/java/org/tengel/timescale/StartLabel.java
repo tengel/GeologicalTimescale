@@ -27,12 +27,12 @@ import android.view.Gravity;
 
 public class StartLabel
 {
-    private Activity  m_activity;
-    private int       m_height      = 0;
-    private String    m_intPart;
-    private String    m_fracPart;
-    private boolean   m_hasFraction;
-    private GeoPeriod m_period      = null;
+    private final Activity  m_activity;
+    private int             m_height      = 0;
+    private String          m_intPart;
+    private String          m_fracPart;
+    private boolean         m_hasFraction;
+    private GeoPeriod       m_period      = null;
 
 
     public StartLabel(Activity activity)
@@ -70,7 +70,7 @@ public class StartLabel
 
     public Vector<TextView> getViews()
     {
-        Vector<TextView> views = new Vector<TextView>();
+        Vector<TextView> views = new Vector<>();
         if (m_period != null && m_period.startApprox == true)
         {
             views.add(createTextView("~", Gravity.END));

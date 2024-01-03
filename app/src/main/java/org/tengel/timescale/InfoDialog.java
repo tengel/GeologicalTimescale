@@ -19,15 +19,7 @@ package org.tengel.timescale;
 
 import android.app.Activity;
 import android.app.AlertDialog;
-import android.content.DialogInterface;
-import android.text.Spanned;
-import android.text.Spannable;
-import android.text.SpannableString;
-import android.text.util.Linkify;
-import android.text.method.LinkMovementMethod;
 import android.webkit.WebView;
-import android.widget.TextView;
-import android.widget.ScrollView;
 
 public class InfoDialog
 {

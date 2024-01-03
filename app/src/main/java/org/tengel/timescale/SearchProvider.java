@@ -31,7 +31,7 @@ import java.util.Locale;
 
 public class SearchProvider extends ContentProvider
 {
-    HashMap<String, Object[]> m_names = new HashMap<String, Object[]>();
+    final HashMap<String, Object[]> m_names = new HashMap<>();
     public static final Uri URI = Uri.parse("content://org.tengel.timescale.search/suggestions");
 
 
@@ -50,7 +50,7 @@ public class SearchProvider extends ContentProvider
             new String[] {BaseColumns._ID,
                           SearchManager.SUGGEST_COLUMN_TEXT_1,
                           SearchManager.SUGGEST_COLUMN_INTENT_DATA});
-        TreeSet<String> ts = new TreeSet<String>(m_names.keySet());
+        TreeSet<String> ts = new TreeSet<>(m_names.keySet());
         for (String name : ts)
         {
             if (name.toLowerCase(Locale.US).contains(
