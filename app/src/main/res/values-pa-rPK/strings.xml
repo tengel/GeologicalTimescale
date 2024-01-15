@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بھو وگیانک سماں</string>
+    <string name="menu_true_scale">True to Scale</string>
+    <string name="menu_fit_screen">Fit to Screen</string>
+    <string name="menu_help">مدد</string>
+    <string name="menu_search">کھجو</string>
+    <string name="menu_clear_search">کھوج ہٹاؤ</string>
+    <string name="menu_plus">ودھواؤ</string>
+    <string name="menu_minus">سمٹاؤ</string>
+    <string name="menu_language">بولی</string>
+    <string name="lang_chinese">چینی</string>
+    <string name="lang_english">انگریزی</string>
+    <string name="lang_german">جرمن</string>
+    <string name="lang_punjabi_gurmukhi">پنجابی، گرمکھی</string>
+    <string name="lang_punjabi_shahmukhi">پنجابی، شاہ‌مکھی</string>
+    <string name="lang_default">سِسٹم دی بولی</string>
+    <string name="lang_norwegian">نورویجی</string>
+    <string name="lang_spanish">سپینی</string>
+    <string name="ok">ٹھیک اے</string>
+
+    <string name="help_text"><![CDATA[
+    <h1>Geological Timescale</h1>
+
+    This App shows the geological timescale of the earth&#039;s history.
+    The most recent geologic periods are at the top, the most ancient periods
+    are at the bottom. The larger units are at the left, the smaller units are
+    at the right.
+
+    <br/>
+    <br/>
+    ورژن: {VERSION}
+    <br/>
+    <a href="https://github.com/tengel/GeologicalTimescale">
+    https://github.com/tengel/<wbr/>GeologicalTimescale</a>
+    <br/>
+
+    <h2>Usage:</h2>
+    <dl>
+      <dt><b>ودھواوݨ:</b></dt>
+      <dd>Add a column with smaller units at the right.</dd>
+      <dt><b>سِمٹاوݨ:</b></dt>
+      <dd>Remove the column with smallest units.</dd>
+      <dt><b>کھبے سویپ کرن</b></dt>
+      <dd>Move the display towards the smaller units.</dd>
+      <dt><b>سچے سویپ کرن</b></dt>
+      <dd>Move the display towards the larger units.</dd>
+    </dl>
+
+    <h2>حوالے</h2>
+    بھو وگیان دا ڈیٹا:
+    <a href="https://en.wikipedia.org/wiki/Geologic_time_scale">
+    https://en.wikipedia.org/wiki/<wbr/>Geologic_time_scale</a>
+    پنجابی وچ تکنیکی لفظ:
+    انگریزی پنجاںی تکنیکی شبداولی (بھو وگیان)
+     ]]></string>
+</resources>
