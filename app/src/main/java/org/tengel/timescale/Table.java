@@ -38,9 +38,10 @@ import android.view.View;
 import android.view.ViewTreeObserver;
 import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import java.util.HashMap;
+import android.graphics.Rect;
 
 
-public class Table
+public class Table implements View.OnScrollChangeListener
 {
     public static final String TAG = "TimeScale";
 
@@ -196,6 +197,7 @@ public class Table
         m_table = new TableLayout(m_activity);
         m_scrollView = (ScrollView) m_activity.findViewById(R.id.ts_scrollview);
         m_scrollView.removeAllViews();
+
         m_displayColumns = columns;
         try
         {
@@ -218,7 +220,7 @@ public class Table
     {
         MyClickListener clickListener = new MyClickListener();
         MyLongClickListener longClickListener = new MyLongClickListener();
-
+        m_scrollView.setOnScrollChangeListener(this);
         m_activity.getActionBar().setDisplayHomeAsUpEnabled(!isHome());
 
         try
@@ -323,11 +325,19 @@ public class Table
                     case NORMAL:
                         tv.setTextColor(0xff000000);
                         tv.setText(translateName(p));
-                    case COLOR_ONLY:
                         if (p.color != 0xff000000)
                         {
                             tv.setBackgroundColor(p.color);
                         }
+                        break;
+                    case COLOR_ONLY:
+                        tv.setTextColor(p.color);
+                        tv.setText(translateName(p));
+                        if (p.color != 0xff000000)
+                        {
+                            tv.setBackgroundColor(p.color);
+                        }
+                        break;
                     case EMPTY:
                     }
                     if (p.selected == true)
@@ -391,7 +401,7 @@ public class Table
         table.removeAllViews();
 
         ViewTreeObserver vto = m_table.getViewTreeObserver();
-        vto.addOnGlobalLayoutListener (new OnGlobalLayoutListener()
+        vto.addOnGlobalLayoutListener(new OnGlobalLayoutListener()
         {
             @Override
             public void onGlobalLayout()
@@ -730,4 +740,48 @@ public class Table
         return m_languageIdx;
     }
 
+
+    @Override
+    public void onScrollChange(View v, int scrollX, int scrollY,
+                               int oldScrollX, int oldScrollY)
+    {
+        for (int columnIdx = 0; columnIdx < m_tree.actualColumns() - m_startColumn;
+             ++columnIdx)
+        {
+            int lastBgColor = 0;
+            boolean isFirst = true;
+            for (int rowIdx = 0; rowIdx < m_tree.actualRows(); ++rowIdx)
+            {
+                TableRow tsRow = (TableRow) m_table.getChildAt(rowIdx);
+                if (tsRow == null)
+                {
+                    continue;
+                }
+                TextView tv = (TextView) tsRow.getChildAt(columnIdx);
+                Rect tvBounds = new Rect();
+                boolean tvIsPartlyVisible = tv.getLocalVisibleRect(tvBounds);
+                boolean isVisible = (tvIsPartlyVisible && tvBounds.top == 0);
+                int currBgColor = 0;
+                ColorDrawable currBgCD = (ColorDrawable) tv.getBackground();
+                if (currBgCD != null)
+                {
+                    currBgColor = currBgCD.getColor();
+                }
+                if (currBgColor != lastBgColor)
+                {
+                    isFirst = true;
+                }
+                lastBgColor = currBgColor;
+                if ((isFirst && isVisible))
+                {
+                    isFirst = false;
+                    tv.setTextColor(0xff000000); // show text
+                }
+                else
+                {
+                    tv.setTextColor(currBgColor); // hide text
+                }
+            }
+        }
+    }
 }
