@@ -1,13 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdk 33
+    compileSdk 34
     defaultConfig {
         applicationId "org.tengel.timescale"
         minSdkVersion 15
-        targetSdkVersion 33
+        targetSdkVersion 34
     }
     namespace 'org.tengel.timescale'
+    buildFeatures.buildConfig = true
 
     buildTypes {
         release {
