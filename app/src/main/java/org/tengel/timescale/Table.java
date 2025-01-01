@@ -655,6 +655,7 @@ public class Table
         }
 
         // find last row to display
+        m_endRow = m_tree.actualRows();
         for (int y = m_startRow; y < m_tree.actualRows(); ++y)
         {
             GeoPeriod p = m_tree.getCell(m_startColumn, y);
