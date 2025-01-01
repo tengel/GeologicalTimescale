@@ -5,6 +5,11 @@
     android:layout_height="fill_parent"
     android:id="@+id/rootlayout">
 
+    <TableLayout android:id="@+id/ts_header"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content">
+    </TableLayout>
+
     <ScrollView
         android:id="@+id/ts_scrollview"
         android:layout_width="fill_parent"

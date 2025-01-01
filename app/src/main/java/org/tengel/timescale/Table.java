@@ -35,6 +35,8 @@ import android.os.Handler;
 import android.view.View.OnClickListener;
 import android.view.View.OnLongClickListener;
 import android.view.View;
+import android.view.ViewTreeObserver;
+import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import java.util.HashMap;
 
 
@@ -197,7 +199,7 @@ public class Table
         m_displayColumns = columns;
         try
         {
-            addTitle(m_table, columns);
+            addTitle(columns);
             m_tree.buildTable(columns);
             m_startRow = 0;
             m_endRow = m_tree.actualRows();
@@ -383,8 +385,31 @@ public class Table
     }
 
 
-    private void addTitle(TableLayout table, int pColumns) throws Exception
+    private void addTitle(int pColumns) throws Exception
     {
+        TableLayout table = (TableLayout) m_activity.findViewById(R.id.ts_header);
+        table.removeAllViews();
+
+        ViewTreeObserver vto = m_table.getViewTreeObserver();
+        vto.addOnGlobalLayoutListener (new OnGlobalLayoutListener()
+        {
+            @Override
+            public void onGlobalLayout()
+            {
+                m_table.getViewTreeObserver().removeGlobalOnLayoutListener(this);
+                TableRow headRow = (TableRow) table.getChildAt(0);
+                TableRow tsRow = (TableRow) m_table.getChildAt(0);
+                for (int columnIdx = 0;
+                     columnIdx < m_tree.actualColumns() - m_startColumn;
+                     ++columnIdx)
+                {
+                    int width = tsRow.getChildAt(columnIdx).getWidth();
+                    TextView headTv = (TextView) headRow.getChildAt(columnIdx);
+                    headTv.setWidth(width);
+                }
+            }
+        });
+
         final String[] TITLE = {
             translateName("head_supereon"),
             translateName("head_eon"),
@@ -670,7 +695,7 @@ public class Table
         m_scrollView = (ScrollView) m_activity.findViewById(R.id.ts_scrollview);
         m_scrollView.removeAllViews();
 
-        addTitle(m_table, m_displayColumns);
+        addTitle(m_displayColumns);
         m_tree.buildTable(m_displayColumns);
         drawTable_2nd();
     }
