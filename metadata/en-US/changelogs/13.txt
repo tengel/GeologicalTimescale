@@ -1,0 +1,4 @@
+- Keep table headers visible when scrolling.
+- Keep period name visible when scrolling.
+- Fix broken help text.
+- Fix crash when last period is selected.
