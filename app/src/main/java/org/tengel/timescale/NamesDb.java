@@ -8,7 +8,7 @@ import java.util.HashMap;
 
 public class NamesDb
 {
-    // 0:id, 1:en, 2:de, 3:zh 4:nb 5:es
+    // 0:id, 1:en, 2:de, 3:zh, 4:nb, 5:es, 6:fr
     private final HashMap<String, String[]> m_names = new HashMap<>();
 
     public NamesDb(InputStream namesStream) throws IOException
@@ -22,7 +22,7 @@ public class NamesDb
                 break;
             }
             String[] lItems = line.split("\t");
-            if (lItems.length != 6)
+            if (lItems.length != 7)
             {
                 throw new IOException("parse failed: " + line);
             }

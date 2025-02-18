@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Échelle de Temps Géologique</string>
+    <string name="menu_true_scale">Vrai à l\'Échelle</string>
+    <string name="menu_fit_screen">Adapter à l\'Écran</string>
+    <string name="menu_help">Info/Aide</string>
+    <string name="menu_search">Rechercher</string>
+    <string name="menu_clear_search">Effacer la Recherche</string>
+    <string name="menu_plus">plus</string>
+    <string name="menu_minus">moins</string>
+    <string name="menu_language">Langue</string>
+    <string name="lang_chinese">Chinois</string>
+    <string name="lang_english">Anglais</string>
+    <string name="lang_german">Allemand</string>
+    <string name="lang_default">Langue du système</string>
+    <string name="lang_norwegian">Norvégien</string>
+    <string name="lang_spanish">Espagnol</string>
+    <string name="lang_french">French</string>
+    <string name="ok">OK</string>
+
+    <string name="help_text"><![CDATA[
+    <h1>Échelle de Temps Géologique</h1>
+
+    Cette application affiche l\'échelle de temps géologique de l\'histoire de
+    la Terre. Les périodes géologiques les plus récentes sont en haut, les
+    périodes les plus anciennes sont en bas. Les unités les plus grandes sont à
+    gauche, les unités les plus petites sont à droite.
+
+    <br/>
+    <br/>
+    Version: {VERSION}
+    <br/>
+    <a href="https://github.com/tengel/GeologicalTimescale">
+    https://github.com/tengel/<wbr/>GeologicalTimescale</a>
+    <br/>
+
+    <h2>Utilisation :</h2>
+    <dl>
+      <dt><b>Plus :</b></dt>
+      <dd>Ajouter une colonne avec des unités plus petites à droite.</dd>
+      <dt><b>Moins :</b></dt>
+      <dd>Supprimer la colonne avec les plus petites unités.</dd>
+      <dt><b>Glissement vers la gauche :</b></dt>
+      <dd>Déplacer l\'affichage vers les unités plus petites.</dd>
+      <dt><b>Glissement vers la droite :</b></dt>
+      <dd>Déplacer l\'affichage vers les unités plus grandes.</dd>
+    </dl>
+
+    <h2>Crédits</h2>
+    Toutes les données sont basées sur Wikipédia. Voir
+    <a href="https://en.wikipedia.org/wiki/Geologic_time_scale">
+    https://en.wikipedia.org/wiki/<wbr/>Geologic_time_scale</a>
+     ]]></string>
+</resources>

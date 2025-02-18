@@ -559,6 +559,10 @@ public class Table implements View.OnScrollChangeListener
             {
                 langIdx = 5;
             }
+            else if (m_systemLang.equals("fr"))
+            {
+                langIdx = 6;
+            }
             else
             {
                 langIdx = 1;
